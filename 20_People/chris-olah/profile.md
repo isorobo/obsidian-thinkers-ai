@@ -21,6 +21,7 @@ key_papers:
 - '[[10_Sources/Papers/chris-olah/concrete-problems-in-ai-safety|Concrete Problems in AI Safety]]'
 - '[[10_Sources/Papers/chris-olah/general-language-assistant-laboratory-alignment-2021|General Language Assistants as Aligned Natural Language Interfaces]]'
 - '[[10_Sources/Papers/chris-olah/scaling-laws-interpretability-repeated-data-2022|Scaling Laws for Interpretability on Repeatedly Trained Data]]'
+- '[[10_Sources/Papers/chris-olah/verbalizable-representations-global-workspace-2026|Verbalizable Representations Form a Global Workspace in Language Models]]'
 key_talks: []
 key_essays:
 - '[[10_Sources/Articles/chris-olah/neural-networks-open-inspection|Neural Networks Can Be Open to Inspection]]'
