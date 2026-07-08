@@ -35,10 +35,11 @@ subject:
 - subject/paul-christiano
 - subject/google-brain
 - subject/concrete-problems-in-ai-safety
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 7ebdcaa50cc10c3008e77c3386442b4bf59420790bec41c2f75783025a4b681f
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: be36096852bba1b8810c9d685bf892f1f1adf8ee31a602cdb186d6f257a6a9f7
+wiki_role: wiki
 ---
+
 
 
 # Concrete Problems in AI Safety (2016)
@@ -62,7 +63,9 @@ Foundational alignment research agenda identifying five concrete problems that p
 
 Not yet extracted. Extraction pending — notebook did not cite this source in the five position queries. Candidate for a follow-up NotebookLM query on the foundational alignment agenda.
 
-## Critical evaluation
+## Reveals about tendency of thought
+
+### Critical evaluation (from the original note)
 
 The 2016 framing treats alignment as an open research agenda. By 2024, Amodei publicly frames alignment as "tractable with effort" and non-binary. Trajectory from 2016 to 2024 is a key evolution worth tracking in `positions.md`.
 

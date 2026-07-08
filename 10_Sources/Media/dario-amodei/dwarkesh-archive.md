@@ -23,10 +23,11 @@ topic:
 subject:
 - subject/dario-amodei
 - subject/dwarkesh-patel
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: b8ba09c9afc89277ff87cebaa5a52e7cf47c1affe557f92dbe2945ca73c9310c
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: ff6c004999d44d46b03eeb525fbb762630c19130a7a85caf5412b4fe402ce6a3
+wiki_role: wiki
 ---
+
 
 
 # Dwarkesh Podcast Archive
@@ -39,7 +40,17 @@ Patel, D. *Podcast Archive*. dwarkeshpatel.com.
 
 Index page listing the Dwarkesh Podcast back-catalogue. Included in the NotebookLM collection as a navigation aid rather than a primary source.
 
-## Status
+## Key claims
+
+Placeholder. This is an index page, not a primary source, so it carries no substantive claims.
+
+## Excerpts
+
+Placeholder. No verbatim quotes were captured; the source is a navigation aid.
+
+## Reveals about tendency of thought
+
+### Status (from the original note)
 
 Low-value as a standalone source. Real content sits in the individual Dario episode captured separately.
 

@@ -1,35 +1,43 @@
 ---
 type: source
-title: "Vibe Coding MenuGen"
+title: Vibe Coding MenuGen
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: blog
-venue: "karpathy.bearblog.dev"
+venue: karpathy.bearblog.dev
 year: 2025
-url: "https://karpathy.bearblog.dev/vibe-coding-menugen/"
+url: https://karpathy.bearblog.dev/vibe-coding-menugen/
 domain:
-  - capability
-  - software-development
-  - agentic-ai
+- capability
+- software-development
+- agentic-ai
 status: inbox
 created: 2026-05-24
 tags:
-  - vibe-coding
-  - software-3-0
-  - menugen
-  - llm-as-tool
-arxiv_id: ""
-doi: ""
-canonical_url: "https://karpathy.bearblog.dev/vibe-coding-menugen/"
-local_attachment: ""
-source_hash: ""
+- vibe-coding
+- software-3-0
+- menugen
+- llm-as-tool
+arxiv_id: ''
+doi: ''
+canonical_url: https://karpathy.bearblog.dev/vibe-coding-menugen/
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/software-2-0
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 3758cf9836cead578494508672d2d696821a7ba0a3efc768df1beb9bd99fefad
+wiki_role: wiki
 ---
+
 
 # Vibe Coding MenuGen
 

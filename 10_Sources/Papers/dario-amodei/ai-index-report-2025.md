@@ -26,10 +26,12 @@ topic:
 subject:
 - subject/stanford-hai
 - subject/ai-index
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 145e46a40b1842e3addb8d0192039c383cb4ad24dbad2448f519a089cfdbea9b
-wiki_role: raw
+- subject/dario-amodei
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 40d2d6a172fddbacdb1ed217c6bb927f0af7987aa7bfdee32c350610a10fe370
+wiki_role: wiki
 ---
+
 
 
 # AI Index Report 2025
@@ -56,6 +58,10 @@ Annual AI Index featuring a highlight chapter on real-world economic integration
 > "Analysis of over 4 million real-world AI interactions provides comprehensive empirical evidence of how AI is being integrated across economic sectors."
 
 > "Only about 4% of occupations show AI usage across 75% or more of their tasks, suggesting that wholesale automation of entire job categories is not yet occurring."
+
+## Reveals about tendency of thought
+
+Placeholder. The original note did not record a tendency-of-thought analysis. This is a Stanford HAI report built on Anthropic Claude-conversation data; it is linked to Dario Amodei as relevant context rather than authored by him.
 
 ## Related
 

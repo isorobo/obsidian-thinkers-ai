@@ -1,0 +1,35 @@
+---
+wiki_role: moc
+topic_full: topic/ai-policy
+wiki_indexed: 2026-06-13T18:14:15Z
+---
+
+# Ai Policy
+
+> Auto-generated MOC. Edits above the "User additions" section will be overwritten on next `/wiki moc` run.
+
+**Topic:** `topic/ai-policy`
+
+## Notes in this Topic
+
+```dataview
+TABLE subject AS "Subjects", wiki_indexed AS "Indexed"
+FROM ""
+WHERE contains(topic, "topic/ai-policy")
+SORT file.name ASC
+```
+
+## Recent additions
+
+```dataview
+LIST
+FROM ""
+WHERE contains(topic, "topic/ai-policy")
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+## User additions
+
+_(Write anything below this line — it is preserved across regenerations.)_

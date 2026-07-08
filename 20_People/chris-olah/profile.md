@@ -17,9 +17,13 @@ alignment_view: Mechanistic interpretability offers a path to verifiable safety.
 economic_view: Not a primary focus.
 policy_view: Transparency standards; third-party access to internal representations.
 first_public_work: Distill.pub essays (2016-2017)
-key_papers: []
+key_papers:
+- '[[10_Sources/Papers/chris-olah/concrete-problems-in-ai-safety|Concrete Problems in AI Safety]]'
+- '[[10_Sources/Papers/chris-olah/general-language-assistant-laboratory-alignment-2021|General Language Assistants as Aligned Natural Language Interfaces]]'
+- '[[10_Sources/Papers/chris-olah/scaling-laws-interpretability-repeated-data-2022|Scaling Laws for Interpretability on Repeatedly Trained Data]]'
 key_talks: []
-key_essays: []
+key_essays:
+- '[[10_Sources/Articles/chris-olah/neural-networks-open-inspection|Neural Networks Can Be Open to Inspection]]'
 interview_archive: []
 status: draft
 created: 2026-04-22

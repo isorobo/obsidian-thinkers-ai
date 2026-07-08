@@ -35,10 +35,11 @@ subject:
 - subject/anthropic
 - subject/machines-of-loving-grace
 - subject/country-of-geniuses-in-a-data-centre
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: a43f37bd5b467ffc31262043a35d45a2f42aa6a6da44ff7c15e941808e57ed8b
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: b27ae4a9bbf273d6a088240532dd583090b9a158f714775aa0f77ead75740628
+wiki_role: wiki
 ---
+
 
 
 # Machines of Loving Grace
@@ -73,7 +74,9 @@ Positive-case manifesto for powerful AI: the "country of geniuses in a datacente
 
 > "My current guess at the best way to do this is via an 'entente strategy', in which a coalition of democracies seeks to gain a clear advantage (even just a temporary one) on powerful AI by securing its supply chain, scaling quickly, and blocking or delaying adversaries' access to key resources like chips and semiconductor equipment."
 
-## Critical evaluation
+## Reveals about tendency of thought
+
+### Critical evaluation (from the original note)
 
 Load-bearing optimism about the developing world (twenty percent GDP growth) rests on an unspecified political pathway. The entente strategy assumes adversary compliance once isolated; history of export-control regimes is mixed. The compressed-21st-century thesis is testable on observable milestones (cancer mortality, Alzheimer's biomarkers) within the 2029 to 2034 window.
 

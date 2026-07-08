@@ -22,6 +22,8 @@ tags:
 - scalable-oversight
 - debate
 - complexity-theory
+local_pdf: 20_People/dario-amodei/papers/1805.00899v2.pdf
+dario_role: co-author
 topic:
 - topic/scalable-oversight
 - topic/alignment
@@ -31,12 +33,11 @@ subject:
 - subject/paul-christiano
 - subject/dario-amodei
 - subject/openai
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 7146d577acd88f795bf40734fdf9a11bfc4d890c78a16111cfa674fc3572e621
-local_pdf: 20_People/dario-amodei/papers/1805.00899v2.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 406d1958c15988e776a8fa5ad037efda7b6fcb9d454aa97d9ce7b80faca1039c
+wiki_role: wiki
 ---
+
 
 # AI Safety via Debate (2018)
 
@@ -55,17 +56,14 @@ Proposes self-play zero-sum debate as a scalable-oversight mechanism, with the t
 - Initial MNIST experiments on sparse classifiers confirm that debate-style adversarial argumentation extracts more information than direct judging.
 - Whether debate generalises depends on empirical questions about human judgement on hard tasks.
 
-## Abstract
+## Excerpts
 
-To make AI systems broadly useful for challenging real-world tasks, we need them to learn complex human goals and preferences. One approach to specifying complex goals asks humans to judge during training which agent behaviors are safe and useful, but this approach can fail if the task is too complicated for a human to directly judge. To help address this concern, we propose training agents via self play on a zero sum debate game. Given a question or proposed action, two agents take turns making short statements up to a limit, then a human judges which of the agents gave the most true, useful information. In an analogy to complexity theory, debate with optimal play can answer any question in PSPACE given polynomial time judges (direct judging answers only NP questions). In practice, whether debate works involves empirical questions about humans and the tasks we want AIs to perform, plus theoretical questions about the meaning of AI alignment. We report results on an initial MNIST experiment where agents compete to convince a sparse classiﬁer, boosting the classiﬁer’s accuracy from 59.4% to 88.9% given 6 pixels and from 48.2% to 85.2% given 4 pixels. Finally, we discuss theoretical and practical aspects of the debate model, focusing on potential weaknesses as the model scales up, and we propose future human and computer experiments to test these properties.
+> To make AI systems broadly useful for challenging real-world tasks, we need them to learn complex human goals and preferences. One approach to specifying complex goals asks humans to judge during training which agent behaviors are safe and useful, but this approach can fail if the task is too complicated for a human to directly judge. To help address this concern, we propose training agents via self play on a zero sum debate game. Given a question or proposed action, two agents take turns making short statements up to a limit, then a human judges which of the agents gave the most true, useful information. In an analogy to complexity theory, debate with optimal play can answer any question in PSPACE given polynomial time judges (direct judging answers only NP questions). In practice, whether debate works involves empirical questions about humans and the tasks we want AIs to perform, plus theoretical questions about the meaning of AI alignment. We report results on an initial MNIST experiment where agents compete to convince a sparse classiﬁer, boosting the classiﬁer’s accuracy from 59.4% to 88.9% given 6 pixels and from 48.2% to 85.2% given 4 pixels. Finally, we discuss theoretical and practical aspects of the debate model, focusing on potential weaknesses as the model scales up, and we propose future human and computer experiments to test these properties.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1805.00899v2.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1805.00899v2.pdf`.
 
 ## Related
 

@@ -35,6 +35,8 @@ tags:
 - transformer-circuits
 - superposition
 - mechanistic-interp
+local_pdf: 20_People/dario-amodei/papers/2209.10652v1.pdf
+dario_role: co-author
 topic:
 - topic/interpretability
 - topic/superposition
@@ -45,12 +47,11 @@ subject:
 - subject/anthropic
 - subject/transformer-circuits
 - subject/superposition
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: c0e9ea2e061c6206020764bbd6cbe8213bd6ce8b3716e6f484967c2a888422c0
-local_pdf: 20_People/dario-amodei/papers/2209.10652v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 0eae626e13aeab4969e57390052ddd61d769b25b97973a67db69ad008a7fae37
+wiki_role: wiki
 ---
+
 
 # Toy Models of Superposition (2022)
 
@@ -69,17 +70,13 @@ Foundational interpretability paper showing how neural networks represent more f
 - Toy models reveal phase transitions between monosemantic and polysemantic regimes as feature density varies.
 - Provides the conceptual foundation for the sparse-autoencoder dictionary-learning agenda that followed.
 
-## Abstract
+## Excerpts
 
-_Abstract not extracted - inspect PDF directly._
+Placeholder. No verbatim excerpts were captured in the original note; the abstract was not extracted. Inspect the PDF directly.
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2209.10652v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/2209.10652v1.pdf`.
 
 ## Related
 

@@ -1,3 +1,12 @@
+---
+type: meta
+title: Wiki AI Thinkers README
+status: permanent
+created: 2026-04-22
+tags:
+- meta
+---
+
 # wiki-thinkers infrastructure
 
 This folder holds state and rollups for the **wiki-thinkers** orchestrator

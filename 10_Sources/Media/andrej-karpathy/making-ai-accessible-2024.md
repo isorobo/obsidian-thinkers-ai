@@ -1,35 +1,44 @@
 ---
 type: source
-title: "Making AI Accessible"
+title: Making AI Accessible
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: talk
-venue: "Sequoia AI Ascent 2024, San Francisco"
+venue: Sequoia AI Ascent 2024, San Francisco
 year: 2024
-url: "https://www.youtube.com/watch?v=c3b-JASoPi0"
+url: https://www.youtube.com/watch?v=c3b-JASoPi0
 domain:
-  - capability
-  - education
-  - software-development
+- capability
+- education
+- software-development
 status: inbox
 created: 2026-05-24
 tags:
-  - llm-os
-  - education
-  - sequoia
-  - accessibility
-arxiv_id: ""
-doi: ""
-canonical_url: "https://www.youtube.com/watch?v=c3b-JASoPi0"
-local_attachment: ""
-source_hash: ""
+- llm-os
+- education
+- sequoia
+- accessibility
+arxiv_id: ''
+doi: ''
+canonical_url: https://www.youtube.com/watch?v=c3b-JASoPi0
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/llm-os
+subject:
+- subject/andrej-karpathy
+- subject/tesla
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: b431aefd37883a6ba0b87e97ba5f48854a50250f881646d1d2b355b9acfd0dba
+wiki_role: wiki
 ---
+
 
 # Making AI Accessible
 

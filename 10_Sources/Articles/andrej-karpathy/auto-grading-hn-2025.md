@@ -1,34 +1,42 @@
 ---
 type: source
-title: "Auto-grading Decade-Old Hacker News Discussions with Hindsight"
+title: Auto-grading Decade-Old Hacker News Discussions with Hindsight
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: blog
-venue: "karpathy.bearblog.dev"
+venue: karpathy.bearblog.dev
 year: 2025
-url: "https://karpathy.bearblog.dev/auto-grade-hn/"
+url: https://karpathy.bearblog.dev/auto-grade-hn/
 domain:
-  - capability
-  - ai-as-tool
+- capability
+- ai-as-tool
 status: inbox
 created: 2026-05-24
 tags:
-  - llm-as-evaluator
-  - prediction
-  - hacker-news
-  - commercial-evolution
-arxiv_id: ""
-doi: ""
-canonical_url: "https://karpathy.bearblog.dev/auto-grade-hn/"
-local_attachment: ""
-source_hash: ""
+- llm-as-evaluator
+- prediction
+- hacker-news
+- commercial-evolution
+arxiv_id: ''
+doi: ''
+canonical_url: https://karpathy.bearblog.dev/auto-grade-hn/
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/software-2-0
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 2fa20676f6748ca0a928f2901c15503cf282fa928352282e3aa90c3e96f9a867
+wiki_role: wiki
 ---
+
 
 # Auto-grading Decade-Old Hacker News Discussions with Hindsight
 

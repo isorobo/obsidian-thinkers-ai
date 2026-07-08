@@ -28,10 +28,13 @@ tags:
 - preference-learning
 - atari
 - mujoco
+local_pdf: 20_People/dario-amodei/papers/1706.03741v4.pdf
+dario_role: co-author
 topic:
 - topic/rlhf
 - topic/preference-learning
 - topic/alignment
+- topic/reinforcement-learning
 subject:
 - subject/paul-christiano
 - subject/jan-leike
@@ -39,12 +42,11 @@ subject:
 - subject/openai
 - subject/deepmind
 - subject/atari
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 8efa19af590a818152f673c20772482e07667c81da985982f420cbc1a2312c38
-local_pdf: 20_People/dario-amodei/papers/1706.03741v4.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 5683e8d939ba2f8b01e9fa530ca2b517346d2d8703987c25d275e13b642007ac
+wiki_role: wiki
 ---
+
 
 # Deep Reinforcement Learning from Human Preferences (2017)
 
@@ -63,17 +65,14 @@ Foundational RLHF paper showing complex RL behaviours can be learned from human 
 - Novel behaviours can be trained in roughly an hour of human labelling time.
 - Establishes the technical scaffolding subsequently used by Anthropic and OpenAI for instruction-tuning language models.
 
-## Abstract
+## Excerpts
 
-For sophisticated reinforcement learning (RL) systems to interact usefully with real-world environments, we need to communicate complex goals to these systems. In this work, we explore goals deﬁned in terms of (non-expert) human preferences between pairs of trajectory segments. We show that this approach can effectively solve complex RL tasks without access to the reward function, including Atari games and simulated robot locomotion, while providing feedback on less than 1% of our agent’s interactions with the environment. This reduces the cost of human oversight far enough that it can be practically applied to state-of-the-art RL systems. To demonstrate the ﬂexibility of our approach, we show that we can successfully train complex novel behaviors with about an hour of human time. These behaviors and environments are considerably more complex than any which have been previously learned from human feedback.
+> For sophisticated reinforcement learning (RL) systems to interact usefully with real-world environments, we need to communicate complex goals to these systems. In this work, we explore goals deﬁned in terms of (non-expert) human preferences between pairs of trajectory segments. We show that this approach can effectively solve complex RL tasks without access to the reward function, including Atari games and simulated robot locomotion, while providing feedback on less than 1% of our agent’s interactions with the environment. This reduces the cost of human oversight far enough that it can be practically applied to state-of-the-art RL systems. To demonstrate the ﬂexibility of our approach, we show that we can successfully train complex novel behaviors with about an hour of human time. These behaviors and environments are considerably more complex than any which have been previously learned from human feedback.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1706.03741v4.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1706.03741v4.pdf`.
 
 ## Related
 

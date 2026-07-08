@@ -32,10 +32,11 @@ subject:
 - subject/anthropic
 - subject/claude-ai
 - subject/onet
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 60487672a06538dddf551bea69131a753ea32be674e452f99e229aca11368441
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: db1eba0d1eed548ce09259b3a97287eeaabefb03cf421535b3238428d26bb35a
+wiki_role: wiki
 ---
+
 
 
 # Which Economic Tasks are Performed with AI? (arXiv 2503.04761)
@@ -63,7 +64,9 @@ Privacy-preserving analysis of over four million Claude.ai conversations mapped 
 
 > "57% of usage suggests augmentation of human capabilities ... while 43% suggests automation."
 
-## Critical evaluation
+## Reveals about tendency of thought
+
+### Critical evaluation (from the original note)
 
 Single-platform data. Self-selected user base biases sectoral distribution. Useful leading indicator rather than population estimate of AI penetration. Complements Brynjolfsson's task-level methodology.
 

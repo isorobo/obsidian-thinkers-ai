@@ -18,6 +18,8 @@ excluded_folders:
   - "99_Meta/wiki-thinkers"
   - "_wiki/_reports"
   - "halumi"
+  - "CLAUDE.md"
+  - "README.md"
 
 confidence_threshold: 0.7
 max_topics_per_note: 3

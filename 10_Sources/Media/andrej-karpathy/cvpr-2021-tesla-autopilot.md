@@ -1,36 +1,45 @@
 ---
 type: source
-title: "Tesla Autopilot at CVPR 2021"
+title: Tesla Autopilot at CVPR 2021
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: talk
-venue: "CVPR 2021 Workshop on Autonomous Driving"
+venue: CVPR 2021 Workshop on Autonomous Driving
 year: 2021
-url: "https://www.youtube.com/watch?v=g6bOwQdCJrc"
+url: https://www.youtube.com/watch?v=g6bOwQdCJrc
 domain:
-  - capability
-  - autonomous-driving
-  - computer-vision
+- capability
+- autonomous-driving
+- computer-vision
 status: inbox
 created: 2026-05-24
 tags:
-  - tesla
-  - autopilot
-  - vision-only
-  - cvpr
-  - depth-estimation
-arxiv_id: ""
-doi: ""
-canonical_url: "https://www.youtube.com/watch?v=g6bOwQdCJrc"
-local_attachment: ""
-source_hash: ""
+- tesla
+- autopilot
+- vision-only
+- cvpr
+- depth-estimation
+arxiv_id: ''
+doi: ''
+canonical_url: https://www.youtube.com/watch?v=g6bOwQdCJrc
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/convnets
+subject:
+- subject/andrej-karpathy
+- subject/tesla
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: e3e815727e5ad741413fd17d03b7a0d02a96131ee32f17021784a9dc0fb7f582
+wiki_role: wiki
 ---
+
 
 # Tesla Autopilot at CVPR 2021
 

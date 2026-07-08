@@ -22,6 +22,8 @@ tags:
 - scalable-oversight
 - iterated-amplification
 - factored-cognition
+local_pdf: 20_People/dario-amodei/papers/1810.08575v1.pdf
+dario_role: co-author
 topic:
 - topic/scalable-oversight
 - topic/iterated-amplification
@@ -32,12 +34,11 @@ subject:
 - subject/dario-amodei
 - subject/openai
 - subject/iterated-amplification
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: a29e662c10d085c812efbda805f2f1245dd45bbadf8236a4a9a5736135cba716
-local_pdf: 20_People/dario-amodei/papers/1810.08575v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 83689011ae20657fa90c0ef76de2c9f6a61d3829f64ad0b13810199301d4408e
+wiki_role: wiki
 ---
+
 
 # Supervising strong learners by amplifying weak experts (2018)
 
@@ -56,17 +57,14 @@ Defines Iterated Amplification, a scalable-oversight scheme that builds training
 - Algorithmic-environment experiments show the agent learning to solve permutation, equality and graph-distance tasks via amplified weak supervision.
 - Provides one of the canonical alternatives to RLHF for aligning superhuman systems.
 
-## Abstract
+## Excerpts
 
-Many real world learning tasks involve complex or hard-to-specify objectives, and using an easier-to-specify proxy can lead to poor performance or misaligned be- havior. One solution is to have humans provide a training signal by demonstrating or judging performance, but this approach fails if the task is too complicated for a human to directly evaluate. We propose Iterated Ampliﬁcation, an alternative train- ing strategy which progressively builds up a training signal for difﬁcult problems by combining solutions to easier subproblems. Iterated Ampliﬁcation is closely related to Expert Iteration (Anthony et al., 2017; Silver et al., 2017b), except that it uses no external reward function. We present results in algorithmic environments, showing that Iterated Ampliﬁcation can efﬁciently learn complex behaviors.
+> Many real world learning tasks involve complex or hard-to-specify objectives, and using an easier-to-specify proxy can lead to poor performance or misaligned be- havior. One solution is to have humans provide a training signal by demonstrating or judging performance, but this approach fails if the task is too complicated for a human to directly evaluate. We propose Iterated Ampliﬁcation, an alternative train- ing strategy which progressively builds up a training signal for difﬁcult problems by combining solutions to easier subproblems. Iterated Ampliﬁcation is closely related to Expert Iteration (Anthony et al., 2017; Silver et al., 2017b), except that it uses no external reward function. We present results in algorithmic environments, showing that Iterated Ampliﬁcation can efﬁciently learn complex behaviors.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1810.08575v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1810.08575v1.pdf`.
 
 ## Related
 

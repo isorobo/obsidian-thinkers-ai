@@ -56,6 +56,8 @@ tags:
 - baidu-era
 - end-to-end
 - hpc
+local_pdf: 20_People/dario-amodei/papers/1512.02595v1.pdf
+dario_role: first-author
 topic:
 - topic/speech-recognition
 - topic/scaling
@@ -64,12 +66,11 @@ subject:
 - subject/andrew-ng
 - subject/baidu
 - subject/deep-speech-2
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 3673ba3c03977bd748e4a24348914144cbcfb69fd07fa88de077638effe7400a
-local_pdf: 20_People/dario-amodei/papers/1512.02595v1.pdf
-dario_role: first-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 6a168f4c4ede5d8664eb4ec5bf087368baa03896654c57e0086a7a1aaa2f6ed2
+wiki_role: wiki
 ---
+
 
 # Deep Speech 2: End-to-End Speech Recognition in English and Mandarin (2015)
 
@@ -88,17 +89,14 @@ First-author flagship from Amodei's Baidu Silicon Valley AI Lab era; demonstrate
 - The trained system matches or surpasses human transcription on standard English and Mandarin benchmarks.
 - Batch Dispatch enables low-latency online deployment on GPU servers, demonstrating production viability.
 
-## Abstract
+## Excerpts
 
-We show that an end-to-end deep learning approach can be used to recognize either English or Mandarin Chinese speech—two vastly different languages. Be- cause it replaces entire pipelines of hand-engineered components with neural net- works, end-to-end learning allows us to handle a diverse variety of speech includ- ing noisy environments, accents and different languages. Key to our approach is our application of HPC techniques, resulting in a 7x speedup over our previous system [26]. Because of this efﬁciency, experiments that previously took weeks now run in days. This enables us to iterate more quickly to identify superior ar- chitectures and algorithms. As a result, in several cases, our system is competitive with the transcription of human workers when benchmarked on standard datasets. Finally, using a technique called Batch Dispatch with GPUs in the data center, we show that our system can be inexpensively deployed in an online setting, deliver- ing low latency when serving users at scale.
+> We show that an end-to-end deep learning approach can be used to recognize either English or Mandarin Chinese speech—two vastly different languages. Be- cause it replaces entire pipelines of hand-engineered components with neural net- works, end-to-end learning allows us to handle a diverse variety of speech includ- ing noisy environments, accents and different languages. Key to our approach is our application of HPC techniques, resulting in a 7x speedup over our previous system [26]. Because of this efﬁciency, experiments that previously took weeks now run in days. This enables us to iterate more quickly to identify superior ar- chitectures and algorithms. As a result, in several cases, our system is competitive with the transcription of human workers when benchmarked on standard datasets. Finally, using a technique called Batch Dispatch with GPUs in the data center, we show that our system can be inexpensively deployed in an online setting, deliver- ing low latency when serving users at scale.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1512.02595v1.pdf`
-
-## Dario's role
-
-first-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: first-author. Local PDF: `20_People/dario-amodei/papers/1512.02595v1.pdf`.
 
 ## Related
 

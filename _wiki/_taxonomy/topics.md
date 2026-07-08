@@ -2,7 +2,7 @@
 type: meta
 title: Controlled Topic Vocabulary
 status: permanent
-updated: 2026-05-22
+updated: 2026-06-21
 topic:
 - topic/meta
 wiki_indexed: '2026-05-22T11:28:30Z'
@@ -56,6 +56,11 @@ written to notes.
 - topic/knowledge-distillation
 - topic/regularisation
 - topic/convnets
+
+## Vision and Multimodal
+
+- topic/vision-language
+- topic/computer-vision
 
 ## Paradigms and Architectures
 

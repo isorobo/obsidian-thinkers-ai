@@ -25,6 +25,8 @@ tags:
 - princeton-era
 - criticality
 - statistical-physics
+local_pdf: 20_People/dario-amodei/papers/1407.5946v1.pdf
+dario_role: co-author
 topic:
 - topic/computational-neuroscience
 subject:
@@ -32,12 +34,11 @@ subject:
 - subject/william-bialek
 - subject/princeton-university
 - subject/criticality
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 5b7ee19b0a30b365fb06dfad4cd8114f3a1fe0aa5357256d7990118f4b444a99
-local_pdf: 20_People/dario-amodei/papers/1407.5946v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: ee3992a426a63f74cace8de67263d684ade8b2390924321cb111df87a613568a
+wiki_role: wiki
 ---
+
 
 # Thermodynamics for a network of neurons: Signatures of criticality (2014)
 
@@ -56,17 +57,13 @@ Treats the spiking patterns of a 120-neuron retinal population as a thermodynami
 - Criticality may be a generic feature of biological networks balancing representational capacity against metabolic cost.
 - Bridges Bialek-school statistical physics with empirical neural data analysis.
 
-## Abstract
+## Excerpts
 
-_Abstract not extracted - inspect PDF directly._
+Placeholder. No verbatim excerpts were captured in the original note; the abstract was not extracted. Inspect the PDF directly.
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1407.5946v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1407.5946v1.pdf`.
 
 ## Related
 

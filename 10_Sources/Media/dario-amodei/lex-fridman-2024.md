@@ -35,10 +35,11 @@ topic:
 subject:
 - subject/dario-amodei
 - subject/lex-fridman
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: c3e858c84637b6eb1940a90a01c744e21ae95208c03e5cb72fa75921603d1b2d
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: c9bddaf35944e6219c77752ed3909ae4e2b365ca312ff6fb832368fd1ab49d09
+wiki_role: wiki
 ---
+
 
 
 # Lex Fridman Podcast #452 — Dario Amodei
@@ -75,6 +76,10 @@ Four-hour interview covering timelines, RSPs, ASL tiers, Constitutional AI, RLHF
 > "It doesn't matter who wins in the end as long as everyone is copying everyone else's good practices ... if instead you create a race to the top where people are competing to engage in good practices, then at the end of the day, it doesn't matter who ends up winning."
 
 > "The RSP basically develops what we've called an if-then structure, which is if the models pass a certain capability, then we impose a certain set of safety and security requirements on them."
+
+## Reveals about tendency of thought
+
+Placeholder. The original note did not record a tendency-of-thought analysis. The key claims and excerpts above stand as the captured content.
 
 ## Related
 

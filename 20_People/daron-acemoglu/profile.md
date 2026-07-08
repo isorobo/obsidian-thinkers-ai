@@ -14,10 +14,11 @@ alignment_view: Not his focus; emphasises governance and distribution.
 economic_view: Modest macro productivity gains; displacement risk material.
 policy_view: Shift AI research toward human-complementary "so-so tech" avoidance.
 first_public_work: Institutional-economics papers from the 1990s
-key_papers: []
-key_talks: []
-key_essays: []
-interview_archive: []
+key_papers:
+key_talks:
+key_essays:
+- "[[10_Sources/Books/daron-acemoglu/power-and-progress-2023|Power and Progress - Our Thousand-Year Struggle Over Technology and Prosperity]]"
+interview_archive:
 status: draft
 created: 2026-04-22
 updated: 2026-04-22

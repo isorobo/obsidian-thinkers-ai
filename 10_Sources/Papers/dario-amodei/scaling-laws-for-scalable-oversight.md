@@ -29,10 +29,11 @@ subject:
 - subject/geoffrey-hinton
 - subject/yann-lecun
 - subject/p-doom-estimates
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 7bf7b3e7ac7daf58f550387991359eff521387ee63e0e5d95de4a5a7a23d7179
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 9fd51639c8107df98cd2e5efde9ea1d531e45c01c644dfdf14bb704511f5d337
+wiki_role: wiki
 ---
+
 
 
 # Scaling Laws for Scalable Oversight
@@ -55,6 +56,10 @@ Analytical paper on recursive-oversight control techniques that surveys expert p
 ## Excerpts
 
 > "Alan Turing and Geoffrey Hinton have estimated p to be high enough to render control loss the default ASI outcome. Others such as Yann LeCun have estimated negligibly small probabilities, while Dario Amodei has estimated p ~ 10% - 20% (Fortune, 2023)."
+
+## Reveals about tendency of thought
+
+Placeholder. The original note did not record a tendency-of-thought analysis. This is secondary coverage that cites Amodei's ten-to-twenty percent loss-of-control estimate (Fortune, 2023) as a datapoint; he did not author the source.
 
 ## Related
 

@@ -1,36 +1,45 @@
 ---
 type: source
-title: "AI for Full Self-Driving at Tesla"
+title: AI for Full Self-Driving at Tesla
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: talk
-venue: "ScaledML 2020 (5th Annual Scaled Machine Learning Conference)"
+venue: ScaledML 2020 (5th Annual Scaled Machine Learning Conference)
 year: 2020
-url: "https://www.youtube.com/watch?v=hx7BXih7zx8"
+url: https://www.youtube.com/watch?v=hx7BXih7zx8
 domain:
-  - capability
-  - autonomous-driving
-  - computer-vision
+- capability
+- autonomous-driving
+- computer-vision
 status: inbox
 created: 2026-05-24
 tags:
-  - tesla
-  - autopilot
-  - full-self-driving
-  - vision-only
-  - scaledml
-arxiv_id: ""
-doi: ""
-canonical_url: "https://www.youtube.com/watch?v=hx7BXih7zx8"
-local_attachment: ""
-source_hash: ""
+- tesla
+- autopilot
+- full-self-driving
+- vision-only
+- scaledml
+arxiv_id: ''
+doi: ''
+canonical_url: https://www.youtube.com/watch?v=hx7BXih7zx8
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/convnets
+subject:
+- subject/andrej-karpathy
+- subject/tesla
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 7f54657b78205738cfc9393c2575c11e7748ee255f4f102917f774a2ea41ad24
+wiki_role: wiki
 ---
+
 
 # AI for Full Self-Driving at Tesla
 

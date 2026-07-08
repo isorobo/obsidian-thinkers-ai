@@ -24,6 +24,20 @@ pending at this time. Subsequent thinker ingestions will populate this file.
 
 (none)
 
+## Approved this cycle (2026-07-05)
+
+The following Topic candidate surfaced in `scan-2026-07-05.md` and was
+approved. It is now in `topics.md`:
+
+- topic/computer-vision
+
+## Approved this cycle (2026-06-21)
+
+The following Topic candidate surfaced in `scan-2026-06-21.md` and was approved.
+It is now in `topics.md`:
+
+- topic/vision-language
+
 ## Approved this cycle (2026-05-22)
 
 The following Topic candidates surfaced in `scan-2026-05-22.md` and were

@@ -1,35 +1,44 @@
 ---
 type: source
-title: "Sequoia Ascent 2026 Summary"
+title: Sequoia Ascent 2026 Summary
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: essay
-venue: "karpathy.bearblog.dev"
+venue: karpathy.bearblog.dev
 year: 2026
-url: "https://karpathy.bearblog.dev/sequoia-ascent-2026/"
+url: https://karpathy.bearblog.dev/sequoia-ascent-2026/
 domain:
-  - capability
-  - software-development
-  - agentic-ai
+- capability
+- software-development
+- agentic-ai
 status: inbox
 created: 2026-05-24
 tags:
-  - software-3-0
-  - agentic-engineering
-  - vibe-coding
-  - sequoia
-arxiv_id: ""
-doi: ""
-canonical_url: "https://karpathy.bearblog.dev/sequoia-ascent-2026/"
-local_attachment: ""
-source_hash: ""
+- software-3-0
+- agentic-engineering
+- vibe-coding
+- sequoia
+arxiv_id: ''
+doi: ''
+canonical_url: https://karpathy.bearblog.dev/sequoia-ascent-2026/
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/software-2-0
+- topic/llm-os
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 4310ff7b521cd5f9532e2fbfcddb070585ab9ee7572b75533865c9e7f40110a0
+wiki_role: wiki
 ---
+
 
 # Sequoia Ascent 2026 Summary
 

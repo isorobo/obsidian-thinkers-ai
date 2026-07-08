@@ -1,34 +1,44 @@
 ---
 type: source
-title: "LLM101n: Let's Build a Storyteller"
+title: 'LLM101n: Let''s Build a Storyteller'
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: essay
-venue: "GitHub (karpathy/LLM101n)"
+venue: GitHub (karpathy/LLM101n)
 year: 2024
-url: "https://github.com/karpathy/LLM101n"
+url: https://github.com/karpathy/LLM101n
 domain:
-  - education
-  - capability
+- education
+- capability
 status: inbox
 created: 2026-05-24
 tags:
-  - education
-  - eureka-labs
-  - llm-training
-  - zero-to-hero
-arxiv_id: ""
-doi: ""
-canonical_url: "https://github.com/karpathy/LLM101n"
-local_attachment: ""
-source_hash: ""
+- education
+- eureka-labs
+- llm-training
+- zero-to-hero
+arxiv_id: ''
+doi: ''
+canonical_url: https://github.com/karpathy/LLM101n
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/education
+- topic/software-2-0
+subject:
+- subject/andrej-karpathy
+- subject/eureka-labs
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 9832be405c3fa84ff49d05f084232474316f0425955e369c64acc6fd748e8ec2
+wiki_role: wiki
 ---
+
 
 # LLM101n: Let's Build a Storyteller
 

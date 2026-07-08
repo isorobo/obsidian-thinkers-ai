@@ -51,6 +51,8 @@ tags:
 - emergent-capabilities
 - policy
 - scaling
+local_pdf: 20_People/dario-amodei/papers/2202.07785v2.pdf
+dario_role: co-author
 topic:
 - topic/emergent-capabilities
 - topic/governance
@@ -61,12 +63,11 @@ subject:
 - subject/jack-clark
 - subject/anthropic
 - subject/emergent-capabilities
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 534c808325e994598eaf9ffa81305b72cc59cfc81f62fe371e4690e1477e9df5
-local_pdf: 20_People/dario-amodei/papers/2202.07785v2.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 6bbeab4671b83e3c313f6c1e4ccbd7ea0b44bdb1dbb9182e92bebb7498b40a70
+wiki_role: wiki
 ---
+
 
 # Predictability and Surprise in Large Generative Models (2022)
 
@@ -85,17 +86,13 @@ Argues large generative models are paradoxically predictable in aggregate (loss 
 - This predictability-surprise duality complicates pre-deployment risk assessment and calls for staged release frameworks.
 - The paper grounds Anthropic's case for Responsible Scaling Policies and pre-deployment evaluations.
 
-## Abstract
+## Excerpts
 
-_Abstract not extracted - inspect PDF directly._
+Placeholder. No verbatim excerpts were captured in the original note; the abstract was not extracted. Inspect the PDF directly.
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2202.07785v2.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/2202.07785v2.pdf`.
 
 ## Related
 

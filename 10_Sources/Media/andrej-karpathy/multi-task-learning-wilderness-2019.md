@@ -1,36 +1,46 @@
 ---
 type: source
-title: "Multi-Task Learning in the Wilderness"
+title: Multi-Task Learning in the Wilderness
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: talk
-venue: "ICML 2019 Autonomous Driving Workshop"
+venue: ICML 2019 Autonomous Driving Workshop
 year: 2019
-url: "https://slideslive.com/38917690/multitask-learning-in-the-wilderness"
+url: https://slideslive.com/38917690/multitask-learning-in-the-wilderness
 domain:
-  - capability
-  - autonomous-driving
-  - multi-task-learning
+- capability
+- autonomous-driving
+- multi-task-learning
 status: inbox
 created: 2026-05-24
 tags:
-  - tesla
-  - autopilot
-  - multi-task-learning
-  - computer-vision
-  - icml
-arxiv_id: ""
-doi: ""
-canonical_url: "https://slideslive.com/38917690/multitask-learning-in-the-wilderness"
-local_attachment: ""
-source_hash: ""
+- tesla
+- autopilot
+- multi-task-learning
+- computer-vision
+- icml
+arxiv_id: ''
+doi: ''
+canonical_url: https://slideslive.com/38917690/multitask-learning-in-the-wilderness
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/convnets
+- topic/training-dynamics
+subject:
+- subject/andrej-karpathy
+- subject/tesla
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 538a34d576c8beb0352086b7c5558ed241a22dfcaa4f5504a7cd4c47f3684f0f
+wiki_role: wiki
 ---
+
 
 # Multi-Task Learning in the Wilderness
 

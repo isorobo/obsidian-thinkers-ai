@@ -22,6 +22,8 @@ tags:
 - options
 - variational-inference
 - curriculum
+local_pdf: 20_People/dario-amodei/papers/1807.10299v1.pdf
+dario_role: co-author
 topic:
 - topic/reinforcement-learning
 - topic/options-framework
@@ -30,12 +32,11 @@ subject:
 - subject/dario-amodei
 - subject/openai
 - subject/valor
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 5dadff449778976e90b04b399d2677786d3650a5d1a433f9f641026c8a41ebcc
-local_pdf: 20_People/dario-amodei/papers/1807.10299v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 820920f4dc6211b89661cb366143575dce35cec961f61ffb4e6a22729060c3f9
+wiki_role: wiki
 ---
+
 
 # Variational Option Discovery Algorithms (2018)
 
@@ -54,17 +55,14 @@ Introduces VALOR (Variational Autoencoding Learning of Options by Reinforcement)
 - A simple curriculum that grows the context set as decoder accuracy rises stabilises training and enables more options.
 - Identifies fundamental limits on option discovery purely from variational objectives without task-specific signal.
 
-## Abstract
+## Excerpts
 
-We explore methods for option discovery based on variational inference and make two algorithmic contributions. First: we highlight a tight connection between variational option discovery methods and variational autoencoders, and introduce Variational Autoencoding Learning of Options by Reinforcement (VALOR), a new method derived from the connection. In VALOR, the policy encodes contexts from a noise distribution into trajectories, and the decoder recovers the contexts from the complete trajectories. Second: we propose a curriculum learning approach where the number of contexts seen by the agent increases whenever the agent’s perfor- mance is strong enough (as measured by the decoder) on the current set of contexts. We show that this simple trick stabilizes training for VALOR and prior variational option discovery methods, allowing a single agent to learn many more modes of behavior than it could with a ﬁxed context distribution. Finally, we investigate other topics related to variational option discovery, including fundamental limitations of the general approach and the applicability of learned options to downstream tasks.
+> We explore methods for option discovery based on variational inference and make two algorithmic contributions. First: we highlight a tight connection between variational option discovery methods and variational autoencoders, and introduce Variational Autoencoding Learning of Options by Reinforcement (VALOR), a new method derived from the connection. In VALOR, the policy encodes contexts from a noise distribution into trajectories, and the decoder recovers the contexts from the complete trajectories. Second: we propose a curriculum learning approach where the number of contexts seen by the agent increases whenever the agent’s perfor- mance is strong enough (as measured by the decoder) on the current set of contexts. We show that this simple trick stabilizes training for VALOR and prior variational option discovery methods, allowing a single agent to learn many more modes of behavior than it could with a ﬁxed context distribution. Finally, we investigate other topics related to variational option discovery, including fundamental limitations of the general approach and the applicability of learned options to downstream tasks.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1807.10299v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1807.10299v1.pdf`.
 
 ## Related
 

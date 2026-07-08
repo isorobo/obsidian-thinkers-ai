@@ -22,6 +22,8 @@ tags:
 - semantic-parsing
 - weak-supervision
 - table-qa
+local_pdf: 20_People/dario-amodei/papers/1611.08945v4.pdf
+dario_role: co-author
 topic:
 - topic/program-induction
 - topic/semantic-parsing
@@ -30,12 +32,11 @@ subject:
 - subject/google-brain
 - subject/neural-programmer
 - subject/wikitablequestions
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 98ad2d4d94d33c072c4e09cb78b7e4845dc3d118f5ef265238e6e1428f0126e9
-local_pdf: 20_People/dario-amodei/papers/1611.08945v4.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 280eda035b8ea45ffc0209fac4936618327624b5a9de21b4b3b8ccd4482a6eac
+wiki_role: wiki
 ---
+
 
 # Learning a Natural Language Interface with Neural Programmer (2017)
 
@@ -54,17 +55,13 @@ Neural Programmer learns to compose discrete arithmetic and logical operations o
 - Achieves 34.2% accuracy on WikiTableQuestions, competitive with human-engineered semantic parsers of the era.
 - Demonstrates a path from end-to-end neural networks toward symbolic reasoning capabilities.
 
-## Abstract
+## Excerpts
 
-_Abstract not extracted - inspect PDF directly._
+Placeholder. No verbatim excerpts were captured in the original note; the abstract was not extracted. Inspect the PDF directly.
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1611.08945v4.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1611.08945v4.pdf`.
 
 ## Related
 

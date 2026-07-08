@@ -43,6 +43,8 @@ tags:
 - hhh
 - preference-modelling
 - prompting
+local_pdf: 20_People/dario-amodei/papers/2112.00861v3.pdf
+dario_role: co-author
 topic:
 - topic/alignment
 - topic/helpful-honest-harmless
@@ -52,12 +54,11 @@ subject:
 - subject/dario-amodei
 - subject/anthropic
 - subject/hhh-framework
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: bae408d2d7dfc77a27ca1939e3de8a085813c2302cc958fb48e599a965fdd1de
-local_pdf: 20_People/dario-amodei/papers/2112.00861v3.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 015c65884d213ea1c738b2cbf00b6dab5d846417edcb9960e756dbcf3aa9a672
+wiki_role: wiki
 ---
+
 
 # A General Language Assistant as a Laboratory for Alignment (2021)
 
@@ -76,17 +77,14 @@ Anthropic's foundational alignment paper introducing the helpful-honest-harmless
 - Preference-model pre-training improves sample efficiency at the human-feedback fine-tuning stage.
 - Establishes the helpful-honest-harmless triad as the operational target of Anthropic alignment work.
 
-## Abstract
+## Excerpts
 
-Given the broad capabilities of large language models, it should be possible to work towards a general-purpose, text-based assistant that is aligned with human values, meaning that it is helpful, honest, and harmless. As an initial foray in this direction we study simple baseline techniques and evaluations, such as prompting. We ﬁnd that the beneﬁts from modest interventions increase with model size, generalize to a variety of alignment evaluations, and do not compromise the performance of large models. Next we investigate scaling trends for several training objectives relevant to alignment, comparing imitation learning, binary discrimination, and ranked preference modeling. We ﬁnd that ranked preference modeling performs much better than imitation learning, and often scales more favorably with model size. In contrast, binary discrimination typically performs and scales very similarly to imitation learning. Finally we study a ‘preference model pre-training’ stage of training, with the goal of improving sample efﬁciency when ﬁnetuning on human preferences. ∗Core Research Contributors †Core Infrastructure Contributors ‡Correspondence to: jared@anthropic.com Author contributions are listed at the end of the paper. arXiv:2112.00861v3 [cs.CL] 9 Dec 2021 === PAGE BREAK === Contents
+> Given the broad capabilities of large language models, it should be possible to work towards a general-purpose, text-based assistant that is aligned with human values, meaning that it is helpful, honest, and harmless. As an initial foray in this direction we study simple baseline techniques and evaluations, such as prompting. We ﬁnd that the beneﬁts from modest interventions increase with model size, generalize to a variety of alignment evaluations, and do not compromise the performance of large models. Next we investigate scaling trends for several training objectives relevant to alignment, comparing imitation learning, binary discrimination, and ranked preference modeling. We ﬁnd that ranked preference modeling performs much better than imitation learning, and often scales more favorably with model size. In contrast, binary discrimination typically performs and scales very similarly to imitation learning. Finally we study a ‘preference model pre-training’ stage of training, with the goal of improving sample efﬁciency when ﬁnetuning on human preferences. ∗Core Research Contributors †Core Infrastructure Contributors ‡Correspondence to: jared@anthropic.com Author contributions are listed at the end of the paper. arXiv:2112.00861v3 [cs.CL] 9 Dec 2021 === PAGE BREAK === Contents
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2112.00861v3.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/2112.00861v3.pdf`.
 
 ## Related
 

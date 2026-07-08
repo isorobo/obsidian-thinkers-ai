@@ -1,35 +1,43 @@
 ---
 type: source
-title: "From Vibe Coding to Agentic Engineering"
+title: From Vibe Coding to Agentic Engineering
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: talk
-venue: "Sequoia AI Ascent 2026, San Francisco"
+venue: Sequoia AI Ascent 2026, San Francisco
 year: 2026
-url: "https://www.youtube.com/watch?v=96jN2OCOfLs"
+url: https://www.youtube.com/watch?v=96jN2OCOfLs
 domain:
-  - capability
-  - software-development
-  - agentic-ai
+- capability
+- software-development
+- agentic-ai
 status: inbox
 created: 2026-05-24
 tags:
-  - software-3-0
-  - agentic-engineering
-  - vibe-coding
-  - sequoia
-arxiv_id: ""
-doi: ""
-canonical_url: "https://www.youtube.com/watch?v=96jN2OCOfLs"
-local_attachment: ""
-source_hash: ""
+- software-3-0
+- agentic-engineering
+- vibe-coding
+- sequoia
+arxiv_id: ''
+doi: ''
+canonical_url: https://www.youtube.com/watch?v=96jN2OCOfLs
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/software-2-0
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 054e56a9d5c7d428583aee6780406bb0e704c854e53b17c85b93e28c32c7622d
+wiki_role: wiki
 ---
+
 
 # From Vibe Coding to Agentic Engineering
 

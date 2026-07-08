@@ -27,10 +27,11 @@ topic:
 subject:
 - subject/dario-amodei
 - subject/anthropic
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 5c0cdfaffa96d26a31c4007ce3514033611ca6a80b278ceea3dc72302cbdfbbf
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: b02c02aa3fc34b1faed452410357d09f5c31d934352ea3a7ba2edbe59dc76f3c
+wiki_role: wiki
 ---
+
 
 
 # TheStreet: "Anthropic CEO makes shocking admission about AI"
@@ -60,7 +61,9 @@ Aggregation of Amodei's labour-displacement forecasts: up to half of entry-level
 
 > "The technology is not replacing a single job but acting as a general labor substitute for humans."
 
-## Critical evaluation
+## Reveals about tendency of thought
+
+### Critical evaluation (from the original note)
 
 Secondary source. Quotes originate from Axios and Fox News interviews; primary-source URLs should be captured on next pass. Forecast is sharper and more alarming than the "compressed 21st century" framing in Machines of Loving Grace - worth flagging as a tonal shift between 2024 essay and 2025 media remarks.
 

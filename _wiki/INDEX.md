@@ -1,11 +1,11 @@
 ---
 wiki_role: index
-wiki_indexed: 2026-05-24T02:24:45Z
+wiki_indexed: 2026-07-08T08:27:19Z
 ---
 
 # Wiki Index
 
-Last updated: 2026-05-24T02:24:45Z
+Last updated: 2026-07-08T08:27:19Z
 
 ## Topic hierarchy
 
@@ -27,6 +27,7 @@ SORT t ASC
 - [[MOC - Alignment]]
 - [[MOC - Computational Neuroscience]]
 - [[MOC - Compute Trends]]
+- [[MOC - Computer Vision]]
 - [[MOC - Constitutional Ai]]
 - [[MOC - Convnets]]
 - [[MOC - Debate]]
@@ -67,6 +68,7 @@ SORT t ASC
 - [[MOC - Training Dynamics]]
 - [[MOC - Transformer Mechanics]]
 - [[MOC - Value Drift]]
+- [[MOC - Vision Language]]
 
 ## Taxonomy files
 - [[_taxonomy/topics]]

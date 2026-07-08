@@ -1,3 +1,12 @@
+---
+type: meta
+title: Thinker Roster
+status: permanent
+created: 2026-04-22
+tags:
+- meta
+---
+
 # Roster
 
 Living roster reconciled from `plan-wiki-thinkers.txt` Section 2,
@@ -21,16 +30,16 @@ The orchestrator reads this table on every `run`.
 |---|---|---|---|---|
 | andrej-karpathy | Andrej Karpathy | researcher | 20 | active |
 | chris-olah | Chris Olah | researcher | 20 | seeded |
-| dario-amodei | Dario Amodei | frontier-lab | 20 | seeded |
+| dario-amodei | Dario Amodei | frontier-lab | 20 | active |
 | daron-acemoglu | Daron Acemoglu | economist | 20 | seeded |
 | demis-hassabis | Demis Hassabis | frontier-lab | 20 | seeded |
-| erik-brynjolfsson | Erik Brynjolfsson | economist | 20 | seeded |
-| gary-marcus | Gary Marcus | contrarian-critic | 20 | seeded |
-| geoffrey-hinton | Geoffrey Hinton | researcher | 20 | seeded |
+| erik-brynjolfsson | Erik Brynjolfsson | economist | 20 | active |
+| gary-marcus | Gary Marcus | contrarian-critic | 20 | active |
+| geoffrey-hinton | Geoffrey Hinton | researcher | 20 | active |
 | helen-toner | Helen Toner | policy-social | 20 | seeded |
 | ilya-sutskever | Ilya Sutskever | frontier-lab | 20 | seeded |
 | leopold-aschenbrenner | Leopold Aschenbrenner | forecaster-analyst | 20 | seeded |
-| paul-christiano | Paul Christiano | safety-philosophy | 20 | seeded |
+| paul-christiano | Paul Christiano | safety-philosophy | 20 | active |
 | sam-altman | Sam Altman | frontier-lab | 20 | seeded |
 | yann-lecun | Yann LeCun | researcher | 20 | seeded |
 | yoshua-bengio | Yoshua Bengio | researcher | 20 | seeded |

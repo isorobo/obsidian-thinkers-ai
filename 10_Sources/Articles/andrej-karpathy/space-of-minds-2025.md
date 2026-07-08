@@ -1,35 +1,43 @@
 ---
 type: source
-title: "The Space of Minds"
+title: The Space of Minds
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: essay
-venue: "karpathy.bearblog.dev"
+venue: karpathy.bearblog.dev
 year: 2025
-url: "https://karpathy.bearblog.dev/the-space-of-minds/"
+url: https://karpathy.bearblog.dev/the-space-of-minds/
 domain:
-  - alignment
-  - capability
-  - ai-nature
+- alignment
+- capability
+- ai-nature
 status: inbox
 created: 2026-05-24
 tags:
-  - llm-psychology
-  - intelligence
-  - animals-vs-ghosts
-  - sycophancy
-arxiv_id: ""
-doi: ""
-canonical_url: "https://karpathy.bearblog.dev/the-space-of-minds/"
-local_attachment: ""
-source_hash: ""
+- llm-psychology
+- intelligence
+- animals-vs-ghosts
+- sycophancy
+arxiv_id: ''
+doi: ''
+canonical_url: https://karpathy.bearblog.dev/the-space-of-minds/
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/emergent-capabilities
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: e54b67f646511366bd38b26e7f8a418c90a08d7e3b80e95bc5c939caa94d6661
+wiki_role: wiki
 ---
+
 
 # The Space of Minds
 

@@ -5,13 +5,17 @@ description: Comprehensive index of 15 AI thinkers with two-sentence profiles
 created: 2026-05-24
 status: live
 tags:
-  - index
-  - people
+- index
+- people
 topic:
-  - topic/people
+- topic/people
 subject:
-  - subject/index
+- subject/index
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 04d3d1bade09ebb6b8488035431cf1e9bf10f61327c7eee6382c29df5505bda6
+wiki_role: wiki
 ---
+
 
 # Wiki AI Thinkers Index
 

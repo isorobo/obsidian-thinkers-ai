@@ -52,6 +52,8 @@ tags:
 - hhh
 - online-learning
 - kl-reward-tradeoff
+local_pdf: 20_People/dario-amodei/papers/2204.05862v1.pdf
+dario_role: co-author
 topic:
 - topic/rlhf
 - topic/helpful-honest-harmless
@@ -62,12 +64,11 @@ subject:
 - subject/dario-amodei
 - subject/anthropic
 - subject/claude-precursor
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: ccd0d139730885a6d8dff72ae67ae39a5618f2dfefb8219188921d75b9710d52
-local_pdf: 20_People/dario-amodei/papers/2204.05862v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: e772de035c99a4f6aa4b28a136a11d231ad2bbb3494d0548746f886351d55c28
+wiki_role: wiki
 ---
+
 
 # Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022)
 
@@ -86,17 +87,14 @@ The canonical Anthropic RLHF paper that demonstrates iterated weekly online RLHF
 - RL reward versus square-root KL divergence between policy and base model exhibits a roughly linear relation, providing a tunable safety knob.
 - The training stack is the immediate technical predecessor of Claude 1.
 
-## Abstract
+## Excerpts
 
-We apply preference modeling and reinforcement learning from human feedback (RLHF) to ﬁnetune language models to act as helpful and harmless assistants. We ﬁnd this align- ment training improves performance on almost all NLP evaluations, and is fully compatible with training for specialized skills such as python coding and summarization. We explore an iterated online mode of training, where preference models and RL policies are updated on a weekly cadence with fresh human feedback data, efﬁciently improving our datasets and models. Finally, we investigate the robustness of RLHF training, and identify a roughly linear relation between the RL reward and the square root of the KL divergence between the policy and its initialization. Alongside our main results, we perform peripheral analyses on calibration, competing objectives, and the use of OOD detection, compare our models with human writers, and provide samples from our models using prompts appearing in recent related work. ∗Correspondence to: {yuntao, jared}@anthropic.com Author contributions are listed at the end of the paper. arXiv:2204.05862v1 [cs.CL] 12 Apr 2022 === PAGE BREAK === Contents
+> We apply preference modeling and reinforcement learning from human feedback (RLHF) to ﬁnetune language models to act as helpful and harmless assistants. We ﬁnd this align- ment training improves performance on almost all NLP evaluations, and is fully compatible with training for specialized skills such as python coding and summarization. We explore an iterated online mode of training, where preference models and RL policies are updated on a weekly cadence with fresh human feedback data, efﬁciently improving our datasets and models. Finally, we investigate the robustness of RLHF training, and identify a roughly linear relation between the RL reward and the square root of the KL divergence between the policy and its initialization. Alongside our main results, we perform peripheral analyses on calibration, competing objectives, and the use of OOD detection, compare our models with human writers, and provide samples from our models using prompts appearing in recent related work. ∗Correspondence to: {yuntao, jared}@anthropic.com Author contributions are listed at the end of the paper. arXiv:2204.05862v1 [cs.CL] 12 Apr 2022 === PAGE BREAK === Contents
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2204.05862v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/2204.05862v1.pdf`.
 
 ## Related
 

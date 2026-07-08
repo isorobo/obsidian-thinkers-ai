@@ -1,36 +1,46 @@
 ---
 type: source
-title: "llm.c's Origin and the Future of LLM Compilers"
+title: llm.c's Origin and the Future of LLM Compilers
 authors:
-  - Andrej Karpathy
+- Andrej Karpathy
 thinker:
-  - "[[20_People/andrej-karpathy/profile|Andrej Karpathy]]"
+- '[[20_People/andrej-karpathy/profile|Andrej Karpathy]]'
 source_type: talk
-venue: "GPU MODE IRL 2024, San Francisco"
+venue: GPU MODE IRL 2024, San Francisco
 year: 2024
-url: "https://www.youtube.com/watch?v=BmdOt6A6tHM"
+url: https://www.youtube.com/watch?v=BmdOt6A6tHM
 domain:
-  - capability
-  - software-development
-  - training
+- capability
+- software-development
+- training
 status: inbox
 created: 2026-05-24
 tags:
-  - llm-c
-  - cuda
-  - software-2-0
-  - training-infrastructure
-  - gpu-mode
-arxiv_id: ""
-doi: ""
-canonical_url: "https://www.youtube.com/watch?v=BmdOt6A6tHM"
-local_attachment: ""
-source_hash: ""
+- llm-c
+- cuda
+- software-2-0
+- training-infrastructure
+- gpu-mode
+arxiv_id: ''
+doi: ''
+canonical_url: https://www.youtube.com/watch?v=BmdOt6A6tHM
+local_attachment: ''
+source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/software-2-0
+- topic/transformer-mechanics
+subject:
+- subject/andrej-karpathy
+- subject/llm-c
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 928e7cebea678e3e34e16beab4683d443f2107b60d7fffd6db033e39dd4c3b82
+wiki_role: wiki
 ---
+
 
 # llm.c's Origin and the Future of LLM Compilers
 

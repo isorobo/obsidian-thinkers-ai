@@ -28,6 +28,8 @@ tags:
 - language-models
 - sentiment-control
 - summarisation
+local_pdf: 20_People/dario-amodei/papers/1909.08593v2.pdf
+dario_role: co-author
 topic:
 - topic/rlhf
 - topic/language-model-finetuning
@@ -38,12 +40,11 @@ subject:
 - subject/alec-radford
 - subject/openai
 - subject/gpt-2
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 18dfe84244fe90d3caa9120671abe27e641792081faec033a6d0cbf0e826ead2
-local_pdf: 20_People/dario-amodei/papers/1909.08593v2.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: eb788ee5a69d57bd6c1e2a06d8f2c102ba2d9e774c3bea45551693bda68af743
+wiki_role: wiki
 ---
+
 
 # Fine-Tuning Language Models from Human Preferences (2019)
 
@@ -62,17 +63,14 @@ First application of RLHF to natural-language tasks; fine-tunes GPT-style langua
 - Models exhibit reward-hacking on summarisation by copying input sentences whenever ROUGE rewards alignment with reference summaries.
 - The pipeline directly anticipates the InstructGPT and ChatGPT training procedures.
 
-## Abstract
+## Excerpts
 
-Reward learning enables the application of rein- forcement learning (RL) to tasks where reward is deﬁned by human judgment, building a model of reward by asking humans questions. Most work on reward learning has used simulated environ- ments, but complex information about values is of- ten expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks. In this paper, we build on advances in generative pretrain- ing of language models to apply reward learning to four natural language tasks: continuing text with positive sentiment or physically descriptive language, and summarization tasks on the TL;DR and CNN/Daily Mail datasets. For stylistic con- tinuation we achieve good results with only 5,000 comparisons evaluated by humans. For summa- rization, models trained with 60,000 comparisons copy whole sentences from the input but skip irrel- evant preamble; this leads to reasonable ROUGE scores and very good performance according to our human labelers, but may be exploiting the fact that labelers rely on simple heuristics.
+> Reward learning enables the application of rein- forcement learning (RL) to tasks where reward is deﬁned by human judgment, building a model of reward by asking humans questions. Most work on reward learning has used simulated environ- ments, but complex information about values is of- ten expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks. In this paper, we build on advances in generative pretrain- ing of language models to apply reward learning to four natural language tasks: continuing text with positive sentiment or physically descriptive language, and summarization tasks on the TL;DR and CNN/Daily Mail datasets. For stylistic con- tinuation we achieve good results with only 5,000 comparisons evaluated by humans. For summa- rization, models trained with 60,000 comparisons copy whole sentences from the input but skip irrel- evant preamble; this leads to reasonable ROUGE scores and very good performance according to our human labelers, but may be exploiting the fact that labelers rely on simple heuristics.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1909.08593v2.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1909.08593v2.pdf`.
 
 ## Related
 

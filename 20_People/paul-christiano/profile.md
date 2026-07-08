@@ -18,10 +18,47 @@ alignment_view: Default outcome bad without serious effort; ELK central problem.
 economic_view: Not a primary focus.
 policy_view: Evaluations first; compute-thresholds; dangerous-capability red-teaming.
 first_public_work: Deep Reinforcement Learning from Human Preferences (2017)
-key_papers: []
-key_talks: []
-key_essays: []
-interview_archive: []
+key_papers:
+- '[[10_Sources/Papers/paul-christiano/ai-safety-via-debate-2018|AI safety via debate]]'
+- '[[10_Sources/Papers/paul-christiano/concrete-problems-2016|Concrete Problems in
+  AI Safety]]'
+- '[[10_Sources/Papers/paul-christiano/elk-2021|Eliciting Latent Knowledge: How to
+  tell if your eyes deceive you]]'
+- '[[10_Sources/Papers/paul-christiano/iterated-amplification-2018|Supervising strong
+  learners by amplifying weak experts]]'
+- '[[10_Sources/Papers/paul-christiano/rlhf-2017|Deep reinforcement learning from
+  human preferences]]'
+key_talks:
+- '[[10_Sources/Media/paul-christiano/80000-hours-44-alignment-solutions-2018|Paul
+  Christiano on how OpenAI is developing real solutions to the AI alignment]]'
+- '[[10_Sources/Media/paul-christiano/80000-hours-62-message-for-the-future-2019|Paul
+  Christiano on whether we should leave a helpful message for future civilisations]]'
+- '[[10_Sources/Media/paul-christiano/axrp-ai-existential-risk-2021|AXRP 12: AI Existential
+  Risk with Paul Christiano]]'
+- '[[10_Sources/Media/paul-christiano/dwarkesh-preventing-ai-takeover-2023|Paul Christiano:
+  Preventing AI Takeover]]'
+- '[[10_Sources/Media/paul-christiano/ea-global-current-work-2019|Current work in
+  AI alignment]]'
+key_essays:
+- '[[10_Sources/Articles/paul-christiano/ai-alignment-landscape-2019|AI alignment
+  landscape]]'
+- '[[10_Sources/Articles/paul-christiano/ama-alignment-researcher-2021|AMA: Paul Christiano,
+  alignment researcher]]'
+- '[[10_Sources/Articles/paul-christiano/another-outer-alignment-failure-story-2021|Another
+  (outer) alignment failure story]]'
+- '[[10_Sources/Articles/paul-christiano/approval-directed-agents-2018|Approval-directed
+  agents]]'
+- '[[10_Sources/Articles/paul-christiano/clarifying-ai-alignment-2018|Clarifying "AI
+  Alignment]]'
+- '[[10_Sources/Articles/paul-christiano/integrity-for-consequentialists-2016|Integrity
+  for consequentialists]]'
+- '[[10_Sources/Articles/paul-christiano/my-views-on-doom-2023|My views on "doom]]'
+- '[[10_Sources/Articles/paul-christiano/takeoff-speeds-2018|Takeoff speeds]]'
+- '[[10_Sources/Articles/paul-christiano/what-failure-looks-like|What failure looks
+  like]]'
+- '[[10_Sources/Articles/paul-christiano/where-i-agree-disagree-eliezer-2022|Where
+  I agree and disagree with Eliezer]]'
+interview_archive: null
 status: draft
 created: 2026-04-22
 updated: 2026-04-22
@@ -33,10 +70,11 @@ topic:
 - topic/people
 subject:
 - subject/paul-christiano
-wiki_indexed: '2026-05-22T09:19:55Z'
-wiki_hash: e03cd343a0617e6b4bd1b8ba05da1a1fab4a48aea1462eacfd12f0b9ad802790
+wiki_indexed: '2026-07-08T00:00:00Z'
+wiki_hash: 10f1d2cb2c311d311c9cc1664e8f7cddbce4bab75cbb92f5744e813bc2c67f7f
 wiki_role: wiki
 ---
+
 
 
 # Paul Christiano
@@ -84,3 +122,23 @@ RLHF paper (2017) with Jan Leike and others. OpenAI alignment lead. ARC founder 
 ## Sources behind this profile
 
 To be populated on first ingestion pass.
+- [[10_Sources/Articles/paul-christiano/ai-alignment-landscape-2019|AI alignment landscape]]
+- [[10_Sources/Articles/paul-christiano/ama-alignment-researcher-2021|AMA: Paul Christiano, alignment researcher]]
+- [[10_Sources/Articles/paul-christiano/another-outer-alignment-failure-story-2021|Another (outer) alignment failure story]]
+- [[10_Sources/Articles/paul-christiano/approval-directed-agents-2018|Approval-directed agents]]
+- [[10_Sources/Articles/paul-christiano/clarifying-ai-alignment-2018|Clarifying "AI Alignment]]
+- [[10_Sources/Articles/paul-christiano/integrity-for-consequentialists-2016|Integrity for consequentialists]]
+- [[10_Sources/Articles/paul-christiano/my-views-on-doom-2023|My views on "doom]]
+- [[10_Sources/Articles/paul-christiano/takeoff-speeds-2018|Takeoff speeds]]
+- [[10_Sources/Articles/paul-christiano/what-failure-looks-like|What failure looks like]]
+- [[10_Sources/Articles/paul-christiano/where-i-agree-disagree-eliezer-2022|Where I agree and disagree with Eliezer]]
+- [[10_Sources/Papers/paul-christiano/ai-safety-via-debate-2018|AI safety via debate]]
+- [[10_Sources/Papers/paul-christiano/concrete-problems-2016|Concrete Problems in AI Safety]]
+- [[10_Sources/Papers/paul-christiano/elk-2021|Eliciting Latent Knowledge: How to tell if your eyes deceive you]]
+- [[10_Sources/Papers/paul-christiano/iterated-amplification-2018|Supervising strong learners by amplifying weak experts]]
+- [[10_Sources/Papers/paul-christiano/rlhf-2017|Deep reinforcement learning from human preferences]]
+- [[10_Sources/Media/paul-christiano/80000-hours-44-alignment-solutions-2018|Paul Christiano on how OpenAI is developing real solutions to the AI alignment]]
+- [[10_Sources/Media/paul-christiano/80000-hours-62-message-for-the-future-2019|Paul Christiano on whether we should leave a helpful message for future civilisations]]
+- [[10_Sources/Media/paul-christiano/axrp-ai-existential-risk-2021|AXRP 12: AI Existential Risk with Paul Christiano]]
+- [[10_Sources/Media/paul-christiano/dwarkesh-preventing-ai-takeover-2023|Paul Christiano: Preventing AI Takeover]]
+- [[10_Sources/Media/paul-christiano/ea-global-current-work-2019|Current work in AI alignment]]

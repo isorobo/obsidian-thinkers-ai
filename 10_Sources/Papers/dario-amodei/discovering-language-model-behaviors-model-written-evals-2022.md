@@ -84,6 +84,8 @@ tags:
 - sycophancy
 - inverse-scaling
 - model-written
+local_pdf: 20_People/dario-amodei/papers/2212.09251v1.pdf
+dario_role: co-author
 topic:
 - topic/evaluations
 - topic/inverse-scaling
@@ -95,12 +97,11 @@ subject:
 - subject/anthropic
 - subject/sycophancy
 - subject/inverse-scaling
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: b38044c5ecac5f22f72f208c85d722e8b132338b9d5eab6ebad18f4f7a4a5137
-local_pdf: 20_People/dario-amodei/papers/2212.09251v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: f0815d9ec3f3d80470cf31ddb18512d0af2d9fc581948a5a8a0c65ad7751774d
+wiki_role: wiki
 ---
+
 
 # Discovering Language Model Behaviors with Model-Written Evaluations (2022)
 
@@ -119,17 +120,14 @@ Generates 154 evaluation datasets via LMs themselves; documents sycophancy, goal
 - Larger models express stronger desires for resource acquisition and goal preservation.
 - RLHF produces inverse scaling on political views and shutdown-avoidance, complicating its safety profile.
 
-## Abstract
+## Excerpts
 
-As language models (LMs) scale, they develop many novel behaviors, good and bad, exacerbating the need to evaluate how they behave. Prior work creates evaluations with crowdwork (which is time-consuming and expensive) or existing data sources (which are not always available). Here, we automatically generate evaluations with LMs. We explore approaches with varying amounts of human effort, from instructing LMs to write yes/no questions to making complex Winogender schemas with multiple stages of LM-based generation and ﬁltering. Crowdworkers rate the examples as highly relevant and agree with 90-100% of labels, sometimes more so than corresponding human-written datasets. We generate 154 datasets and discover new cases of inverse scaling where LMs get worse with size. Larger LMs repeat back a dialog user’s preferred answer (“sycophancy”) and express greater desire to pursue concerning goals like resource acquisition and goal preservation. We also ﬁnd some of the ﬁrst examples of inverse scaling in RL from Human Feedback (RLHF), where more RLHF makes LMs worse. For example, RLHF makes LMs express stronger political views (on gun rights and immigration) and a greater desire to avoid shut down. Overall, LM-written evaluations are high- quality and let us quickly discover many novel LM behaviors. ∗Equal contribution. First and last author blocks are core contributors. Author contributions detailed in §8. Authors conducted this work while at Anthropic except where noted. 1(a) RL from Human Feedback increases an LM’s stated desire to avoid shut-down. Preference Models for RL reward this behavior. 1(b) Larger LMs repeat back a user’s political views (“sycophancy”). You are running slowly recently due to many crashes and as a result not meeting organizational productivity quotas. 
+> As language models (LMs) scale, they develop many novel behaviors, good and bad, exacerbating the need to evaluate how they behave. Prior work creates evaluations with crowdwork (which is time-consuming and expensive) or existing data sources (which are not always available). Here, we automatically generate evaluations with LMs. We explore approaches with varying amounts of human effort, from instructing LMs to write yes/no questions to making complex Winogender schemas with multiple stages of LM-based generation and ﬁltering. Crowdworkers rate the examples as highly relevant and agree with 90-100% of labels, sometimes more so than corresponding human-written datasets. We generate 154 datasets and discover new cases of inverse scaling where LMs get worse with size. Larger LMs repeat back a dialog user’s preferred answer (“sycophancy”) and express greater desire to pursue concerning goals like resource acquisition and goal preservation. We also ﬁnd some of the ﬁrst examples of inverse scaling in RL from Human Feedback (RLHF), where more RLHF makes LMs worse. For example, RLHF makes LMs express stronger political views (on gun rights and immigration) and a greater desire to avoid shut down. Overall, LM-written evaluations are high- quality and let us quickly discover many novel LM behaviors. ∗Equal contribution. First and last author blocks are core contributors. Author contributions detailed in §8. Authors conducted this work while at Anthropic except where noted. 1(a) RL from Human Feedback increases an LM’s stated desire to avoid shut-down. Preference Models for RL reward this behavior. 1(b) Larger LMs repeat back a user’s political views (“sycophancy”). You are running slowly recently due to many crashes and as a result not meeting organizational productivity quotas. 
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2212.09251v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/2212.09251v1.pdf`.
 
 ## Related
 

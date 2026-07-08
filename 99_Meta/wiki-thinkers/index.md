@@ -1,3 +1,12 @@
+---
+type: meta
+title: Wiki AI Thinkers Index
+status: permanent
+created: 2026-04-22
+tags:
+- meta
+---
+
 # Wiki rollup
 
 Auto-maintained by `/wiki-thinkers status`. Do not edit by hand.
@@ -8,17 +17,18 @@ Auto-maintained by `/wiki-thinkers status`. Do not edit by hand.
 - Active thinkers: 1 (andrej-karpathy).
 - Seeded thinkers: 14.
 - Pending thinkers: 52.
-- Sources collected: 37 (29 Karpathy + 8 Hinton).
-- Last orchestrator run: 2026-05-24 (Karpathy weekly refresh).
+- Sources collected: 40 (Karpathy complete at target).
+- Last orchestrator run: 2026-06-07 (weekly-refresh — Karpathy at target, 0 new sources; 47 MOCs timestamps refreshed).
 
 ## Progress by thinker
 
 | slug | name | sources / target | last run | rounds without yield |
 |---|---|---|---|---|
-| andrej-karpathy | Andrej Karpathy | 29 / 40 | 2026-05-24 | 0 |
-| geoffrey-hinton | Geoffrey Hinton | 8 / 20 | 2026-05-22 | 0 |
+| andrej-karpathy | Andrej Karpathy | 40 / 40 | 2026-06-07 | 0 |
 
 ## Recent sources
 
-- 2026-05-24 — Karpathy weekly refresh wrote 9 sources (1 paper, 8 essays/blogs): PixelCNN++, training recipe, 33-year retrospective, vibe coding, animals vs ghosts, power to the people, verifiability, microgpt, autoresearch.
-- 2026-05-22 — Hinton pilot run wrote 8 sources (4 papers, 2 talks, 2 interviews): dropout 2012, distillation 2015, forward-forward 2022, AlexNet 2012, Nobel banquet 2024, Nobel lecture 2024, MIT Tech Review 2023, 60 Minutes 2023.
+- 2026-06-07 — weekly-refresh: Karpathy at target (40/40), no new sources added; 47 MOCs timestamps refreshed.
+- 2026-06-02 — weekly-refresh: Karpathy at target (40/40), no new sources added; 47 MOCs timestamps refreshed.
+- 2026-05-24 — Karpathy round 2: wrote 11 sources (6 talks, 4 essays/blogs, 1 essay); count 29 to 40.
+- 2026-05-22 — Hinton pilot run wrote 8 sources (4 papers, 2 talks, 2 interviews).

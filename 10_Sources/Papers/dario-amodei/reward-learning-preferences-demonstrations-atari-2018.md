@@ -27,6 +27,8 @@ tags:
 - atari
 - dqn
 - reward-hacking
+local_pdf: 20_People/dario-amodei/papers/1811.06521v1.pdf
+dario_role: co-author
 topic:
 - topic/rlhf
 - topic/preference-learning
@@ -38,12 +40,11 @@ subject:
 - subject/openai
 - subject/atari
 - subject/dqn
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 401b084ceb1b30d55e73091b2e14d01b5f397e23d6d74d9195d9ea73338a3366
-local_pdf: 20_People/dario-amodei/papers/1811.06521v1.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 2ac30c8a9e84abedf5a0613cb07e136ab04bb9d58b283939bfda3b77a119a31b
+wiki_role: wiki
 ---
+
 
 # Reward learning from human preferences and demonstrations in Atari (2018)
 
@@ -62,17 +63,14 @@ Combines expert demonstrations with trajectory preferences to learn an Atari rew
 - Reward hacking emerges and is documented; the model exploits proxy signals when the learned reward diverges from the true objective.
 - Noise injected into human labels degrades the reward model in measurable, predictable ways.
 
-## Abstract
+## Excerpts
 
-To solve complex real-world problems with reinforcement learning, we cannot rely on manually speciﬁed reward functions. Instead, we can have humans communicate an objective to the agent directly. In this work, we combine two approaches to learning from human feedback: expert demonstrations and trajectory preferences. We train a deep neural network to model the reward function and use its predicted reward to train an DQN-based deep reinforcement learning agent on 9 Atari games. Our approach beats the imitation learning baseline in 7 games and achieves strictly superhuman performance on 2 games without using game rewards. Additionally, we investigate the goodness of ﬁt of the reward model, present some reward hacking problems, and study the effects of noise in the human labels.
+> To solve complex real-world problems with reinforcement learning, we cannot rely on manually speciﬁed reward functions. Instead, we can have humans communicate an objective to the agent directly. In this work, we combine two approaches to learning from human feedback: expert demonstrations and trajectory preferences. We train a deep neural network to model the reward function and use its predicted reward to train an DQN-based deep reinforcement learning agent on 9 Atari games. Our approach beats the imitation learning baseline in 7 games and achieves strictly superhuman performance on 2 games without using game rewards. Additionally, we investigate the goodness of ﬁt of the reward model, present some reward hacking problems, and study the effects of noise in the human labels.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/1811.06521v1.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/1811.06521v1.pdf`.
 
 ## Related
 

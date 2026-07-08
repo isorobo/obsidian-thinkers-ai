@@ -66,6 +66,8 @@ tags:
 - sandwiching
 - mmlu
 - quality
+local_pdf: 20_People/dario-amodei/papers/2211.03540v2.pdf
+dario_role: co-author
 topic:
 - topic/scalable-oversight
 - topic/alignment
@@ -76,12 +78,11 @@ subject:
 - subject/sandwiching
 - subject/mmlu
 - subject/quality-dataset
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: 8874f53f1097194a2770d5c4c6ad4af71bd28f0acefbe763536404f0a7822cff
-local_pdf: 20_People/dario-amodei/papers/2211.03540v2.pdf
-dario_role: co-author
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 13f5ee5660c87e51da918dec7fa196200b4886eb9a4c80ac59f35e4322a647a1
+wiki_role: wiki
 ---
+
 
 # Measuring Progress on Scalable Oversight for Large Language Models (2022)
 
@@ -100,17 +101,14 @@ Operationalises scalable oversight via the sandwiching paradigm (tasks human spe
 - Demonstrates that scalable-oversight research can begin meaningfully with current models, before genuinely superhuman systems exist.
 - Establishes a methodology applicable to debate, amplification, and recursive reward modelling.
 
-## Abstract
+## Excerpts
 
-Developing safe and useful general-purpose AI systems will require us to make progress on scalable oversight: the problem of supervising systems that potentially outperform us on most skills relevant to the task at hand. Empirical work on this problem is not straight- forward, since we do not yet have systems that broadly exceed our abilities. This paper discusses one of the major ways we think about this problem, with a focus on ways it can be studied empirically. We ﬁrst present an experimental design centered on tasks for which human specialists succeed but unaided humans and current general AI systems fail. We then present a proof-of-concept experiment meant to demonstrate a key feature of this ex- perimental design and show its viability with two question-answering tasks: MMLU and time-limited QuALITY. On these tasks, we ﬁnd that human participants who interact with an unreliable large-language-model dialog assistant through chat—a trivial baseline strat- egy for scalable oversight—substantially outperform both the model alone and their own unaided performance. These results are an encouraging sign that scalable oversight will be tractable to study with present models and bolster recent ﬁndings that large language models can productively assist humans with difﬁcult tasks.
+> Developing safe and useful general-purpose AI systems will require us to make progress on scalable oversight: the problem of supervising systems that potentially outperform us on most skills relevant to the task at hand. Empirical work on this problem is not straight- forward, since we do not yet have systems that broadly exceed our abilities. This paper discusses one of the major ways we think about this problem, with a focus on ways it can be studied empirically. We ﬁrst present an experimental design centered on tasks for which human specialists succeed but unaided humans and current general AI systems fail. We then present a proof-of-concept experiment meant to demonstrate a key feature of this ex- perimental design and show its viability with two question-answering tasks: MMLU and time-limited QuALITY. On these tasks, we ﬁnd that human participants who interact with an unreliable large-language-model dialog assistant through chat—a trivial baseline strat- egy for scalable oversight—substantially outperform both the model alone and their own unaided performance. These results are an encouraging sign that scalable oversight will be tractable to study with present models and bolster recent ﬁndings that large language models can productively assist humans with difﬁcult tasks.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2211.03540v2.pdf`
-
-## Dario's role
-
-co-author.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: co-author. Local PDF: `20_People/dario-amodei/papers/2211.03540v2.pdf`.
 
 ## Related
 

@@ -31,10 +31,11 @@ topic:
 subject:
 - subject/dario-amodei
 - subject/dwarkesh-patel
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 1338497e22b74ae4f59e40a042b31c0590ccd565ebb350f18a5454ffd6c57eb9
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: cd74cdb75a23b27b1f5f8334aea702c0bdad8632654b5f694b87030f937363ff
+wiki_role: wiki
 ---
+
 
 
 # Dwarkesh Patel interview — Dario Amodei
@@ -68,6 +69,10 @@ Two-hour interview anchored on timelines, the structure of the alignment problem
 > "I have a substantial probability mass on - this all goes wrong, it's a complete disaster, but in a completely different way than anyone had anticipated it would."
 
 > "Mechanistic interpretability is the only thing that even in principle is the thing where it's more like an X-ray of the model than modification of the model."
+
+## Reveals about tendency of thought
+
+Placeholder. The original note did not record a tendency-of-thought analysis. The key claims and excerpts above stand as the captured content.
 
 ## Related
 

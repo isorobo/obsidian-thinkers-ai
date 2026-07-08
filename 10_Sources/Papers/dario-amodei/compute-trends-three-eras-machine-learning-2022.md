@@ -27,6 +27,8 @@ tags:
 - compute-trends
 - moores-law
 - large-scale-era
+local_pdf: 20_People/dario-amodei/papers/2202.05924v2.pdf
+dario_role: cited
 topic:
 - topic/compute-trends
 - topic/scaling
@@ -36,12 +38,12 @@ subject:
 - subject/tamay-besiroglu
 - subject/epoch-ai
 - subject/large-scale-era
-wiki_role: raw
-wiki_indexed: '2026-04-27T07:25:25Z'
-wiki_hash: c4fa0b2674bdd364979ee8f2cc62fae01237222d98e5e3ed6beb5c42d63acbf4
-local_pdf: 20_People/dario-amodei/papers/2202.05924v2.pdf
-dario_role: cited
+- subject/dario-amodei
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: 3d3b1f63923225aeb4888abd170c9a837de962ba3ffb7624da0e7425f0692b3a
+wiki_role: wiki
 ---
+
 
 # Compute Trends Across Three Eras of Machine Learning (2022)
 
@@ -60,17 +62,14 @@ Epoch AI's tripartite periodisation of ML compute history (Pre-Deep-Learning, De
 - A new "Large-Scale Era" began in late 2015 with frontier models requiring 10-100x more compute than peers.
 - Provides the canonical empirical baseline for compute-takeoff and timeline arguments.
 
-## Abstract
+## Excerpts
 
-Compute, data, and algorithmic advances are the three fundamental factors that guide the progress of modern Machine Learning (ML). In this paper we study trends in the most readily quantiﬁed factor – compute. We show that before 2010 training compute grew in line with Moore’s law, doubling roughly every 20 months. Since the advent of Deep Learning in the early 2010s, the scaling of training compute has accelerated, doubling approximately every 6 months. In late 2015, a new trend emerged as ﬁrms developed large-scale ML models with 10 to 100-fold larger requirements in training compute. Based on these observations we split the history of compute in ML into three eras: the Pre Deep Learning Era , the Deep Learning Era and the Large-Scale Era . Overall, our work highlights the fast-growing compute requirements for training advanced ML systems.
+> Compute, data, and algorithmic advances are the three fundamental factors that guide the progress of modern Machine Learning (ML). In this paper we study trends in the most readily quantiﬁed factor – compute. We show that before 2010 training compute grew in line with Moore’s law, doubling roughly every 20 months. Since the advent of Deep Learning in the early 2010s, the scaling of training compute has accelerated, doubling approximately every 6 months. In late 2015, a new trend emerged as ﬁrms developed large-scale ML models with 10 to 100-fold larger requirements in training compute. Based on these observations we split the history of compute in ML into three eras: the Pre Deep Learning Era , the Deep Learning Era and the Large-Scale Era . Overall, our work highlights the fast-growing compute requirements for training advanced ML systems.
+> ~ Abstract
 
-## Local PDF
+## Reveals about tendency of thought
 
-`20_People/dario-amodei/papers/2202.05924v2.pdf`
-
-## Dario's role
-
-cited.
+Placeholder. The original note did not record a tendency-of-thought analysis. Dario Amodei's role on this source: cited. Local PDF: `20_People/dario-amodei/papers/2202.05924v2.pdf`.
 
 ## Related
 

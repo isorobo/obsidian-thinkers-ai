@@ -31,10 +31,11 @@ subject:
 - subject/dario-amodei
 - subject/us-senate
 - subject/anthropic
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: 31490574ae180d1f7302f6d0fe2f8f7c321a49ff3de126e24c2e6107ec8a0ffd
-wiki_role: raw
+wiki_indexed: '2026-06-07T10:00:00Z'
+wiki_hash: b7b9c3d5c0db7f48c89705831b06cf53e35c18402f17884ae4d1f0525a598892
+wiki_role: wiki
 ---
+
 
 
 # Senate Judiciary Testimony — Dario Amodei (2023)
@@ -65,6 +66,10 @@ Formal testimony framing AI progress as national-security critical and arguing f
 > "New AI models should have to pass a rigorous battery of safety tests both during development and before being released to the public or to customers."
 
 > "Our suggestion for the agency to oversee this process is NIST, whose mandate focuses explicitly on measurement and evaluation."
+
+## Reveals about tendency of thought
+
+Placeholder. The original note did not record a tendency-of-thought analysis. The key claims and excerpts above stand as the captured content.
 
 ## Related
 
