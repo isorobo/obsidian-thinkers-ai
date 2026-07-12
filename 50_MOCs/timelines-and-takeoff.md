@@ -2,12 +2,19 @@
 type: moc
 title: Timelines and Takeoff Dynamics
 domain:
-  - capability
-  - policy
+- capability
+- policy
 status: permanent
 created: 2026-06-30
 updated: 2026-07-08
+topic:
+- topic/agi-timelines
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: 2789b1497df2aac408e5265c87348600093abb82064ea030217c6d36335d1b93
+wiki_role: moc
 ---
+
+
 
 # Timelines and Takeoff Dynamics
 

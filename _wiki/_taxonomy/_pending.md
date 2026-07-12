@@ -2,13 +2,15 @@
 type: meta
 title: Pending Topic Approvals
 status: permanent
-updated: 2026-05-22
+updated: 2026-07-12
 topic:
 - topic/meta
-wiki_indexed: '2026-05-22T11:28:30Z'
-wiki_hash: 2c6a5f4efc71d5c288e512e47f75d7bb84c602a02d00e4b31d788bcdb9cc6c7e
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: 458c6d2ac16229301fbc0f0d4377cfbc09369992cf9bb042ad701fdd17f9a1cb
 wiki_role: meta
 ---
+
+
 
 
 
@@ -22,7 +24,17 @@ pending at this time. Subsequent thinker ingestions will populate this file.
 
 ## Pending
 
-(none)
+### topic/research-methodology (staged 2026-07-12)
+
+Evidenced by one note:
+`10_Sources/Articles/andrej-karpathy/survival-guide-phd-2016.md`, now
+quarantined for a second consecutive cycle. No existing Topic clears the
+0.7 confidence threshold; closest is `topic/education` (~0.55). Options:
+
+- **Approve** — creates the Topic; the note is tagged next cycle.
+- **Reject and direct to `topic/education`** — the note is tagged with the
+  existing Topic despite the low fit.
+- **Reject outright** — the note stays untagged.
 
 ## Approved this cycle (2026-07-05)
 

@@ -1,7 +1,7 @@
 ---
 wiki_role: moc
 topic_full: topic/agi-timelines
-wiki_indexed: 2026-06-13T18:14:15Z
+wiki_indexed: 2026-07-11T18:21:15Z
 ---
 
 # Agi Timelines

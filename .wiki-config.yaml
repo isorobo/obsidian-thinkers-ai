@@ -8,6 +8,7 @@ excluded_folders:
   - ".trash"
   - ".git"
   - ".claude"
+  - ".claudian"
   - ".remember"
   - "_wiki/_quarantine"
   - "00_Inbox"

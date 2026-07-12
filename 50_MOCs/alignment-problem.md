@@ -2,12 +2,20 @@
 type: moc
 title: The Alignment Problem - Views from AI Researchers
 domain:
-  - alignment
-  - safety
+- alignment
+- safety
 status: permanent
 created: 2026-06-30
 updated: 2026-07-08
+topic:
+- topic/alignment
+- topic/ai-safety
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: 30fc126ed4af96a5a39f048b25a89da45ffb09d041f3c7a7e166ff3cdd0b45e5
+wiki_role: moc
 ---
+
+
 
 # The Alignment Problem: Views from AI Researchers
 

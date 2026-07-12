@@ -1,7 +1,7 @@
 ---
 wiki_role: moc
 topic_full: topic/agi-positive-vision
-wiki_indexed: 2026-07-08T08:27:19Z
+wiki_indexed: 2026-07-11T18:21:15Z
 ---
 
 # Agi Positive Vision
@@ -31,23 +31,5 @@ LIMIT 10
 
 ---
 ## User additions
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
-
-_(Write anything below this line — it is preserved across regenerations.)_
 
 _(Write anything below this line — it is preserved across regenerations.)_

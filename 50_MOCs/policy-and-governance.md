@@ -2,12 +2,20 @@
 type: moc
 title: Policy Positions on AI Governance
 domain:
-  - policy
-  - governance
+- policy
+- governance
 status: permanent
 created: 2026-06-30
 updated: 2026-07-08
+topic:
+- topic/governance
+- topic/ai-policy
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: 0e62002275414aebcf50edcc516a648a58c259ad87283bd4a35d5190cbdad785
+wiki_role: moc
 ---
+
+
 
 # Policy Positions on AI Governance
 

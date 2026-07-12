@@ -1,49 +1,62 @@
 ---
 type: source
-title: "Verbalizable Representations Form a Global Workspace in Language Models"
+title: Verbalizable Representations Form a Global Workspace in Language Models
 authors:
-  - Wes Gurnee
-  - Nicholas Sofroniew
-  - Adam Pearce
-  - Mateusz Piotrowski
-  - Isaac Kauvar
-  - Runjin Chen
-  - Anna Soligo
-  - Paul Bogdan
-  - Euan Ong
-  - Rowan Wang
-  - Ben Thompson
-  - David Abrahams
-  - Subhash Kantamneni
-  - Emmanuel Ameisen
-  - Joshua Batson
-  - Jack Lindsey
+- Wes Gurnee
+- Nicholas Sofroniew
+- Adam Pearce
+- Mateusz Piotrowski
+- Isaac Kauvar
+- Runjin Chen
+- Anna Soligo
+- Paul Bogdan
+- Euan Ong
+- Rowan Wang
+- Ben Thompson
+- David Abrahams
+- Subhash Kantamneni
+- Emmanuel Ameisen
+- Joshua Batson
+- Jack Lindsey
 thinker:
-  - "[[20_People/chris-olah/profile|Chris Olah]]"
+- '[[20_People/chris-olah/profile|Chris Olah]]'
 source_type: paper
-venue: "Transformer Circuits Thread"
+venue: Transformer Circuits Thread
 year: 2026
-url: "https://transformer-circuits.pub/2026/workspace/index.html"
+url: https://transformer-circuits.pub/2026/workspace/index.html
 domain:
-  - interpretability
-  - philosophy
+- interpretability
+- philosophy
 status: inbox
 created: 2026-07-08
 tags:
-  - global-workspace-theory
-  - jacobian-lens
-  - consciousness
-  - anthropic
-arxiv_id: ""
-doi: ""
-canonical_url: "https://transformer-circuits.pub/2026/workspace/index.html"
-local_attachment: ""
-source_hash: ""
+- global-workspace-theory
+- jacobian-lens
+- consciousness
+- anthropic
+arxiv_id: ''
+doi: ''
+canonical_url: https://transformer-circuits.pub/2026/workspace/index.html
+local_attachment: ''
+source_hash: ''
 retrieved_by: manual
 retrieved_at: 2026-07-08
-nlm_source_id: ""
+nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/interpretability
+subject:
+- subject/chris-olah
+- subject/anthropic
+- subject/transformer-circuits
+- subject/machine-consciousness
+- subject/global-workspace-theory
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: b80f3b42f7151d6ce35463455e0b90e298b179a3846f972aeee437fbdd69a979
+wiki_role: wiki
 ---
+
+
 
 # Verbalizable Representations Form a Global Workspace in Language Models
 

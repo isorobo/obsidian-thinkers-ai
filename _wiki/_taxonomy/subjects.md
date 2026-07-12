@@ -2,13 +2,15 @@
 type: meta
 title: Subject Folksonomy
 status: permanent
-updated: 2026-06-21
+updated: 2026-07-12
 topic:
 - topic/meta
-wiki_indexed: '2026-04-27T07:27:46Z'
-wiki_hash: ba4e7bc136cd2ba9e4804c0bb6ebf16e82f213418bf8d8e5fe5c75a323b386a8
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: cae589f6e9195cdc0feb9bb87140b0476978b553f9ba06cd59b429983cbe06cb
 wiki_role: meta
 ---
+
+
 
 
 # Subject Folksonomy
@@ -135,6 +137,7 @@ specific named artefacts. Concepts belong in `topics.md`, not here.
 ## Concepts and Themes
 
 - subject/compression
+- subject/global-workspace-theory
 - subject/machine-consciousness
 - subject/power-concentration
 - subject/short-fiction

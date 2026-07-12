@@ -2,13 +2,15 @@
 type: meta
 title: Controlled Topic Vocabulary
 status: permanent
-updated: 2026-06-21
+updated: 2026-07-12
 topic:
 - topic/meta
-wiki_indexed: '2026-05-22T11:28:30Z'
-wiki_hash: a430492cebfd12a4636c37fb69b02b175e65d385da5ff2665cbbf98f7da40eb1
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: 1026730fc6292c9158fc5225c3eac73f8b63e329902f4a99131de3782966cf49
 wiki_role: meta
 ---
+
+
 
 
 
@@ -42,6 +44,8 @@ written to notes.
 
 - topic/scaling
 - topic/scaling-laws
+- topic/ai-scaling
+- topic/representation-learning
 - topic/compute-trends
 - topic/emergent-capabilities
 - topic/training-dynamics
@@ -81,10 +85,23 @@ written to notes.
 - topic/ai-economics
 - topic/labour-market
 - topic/governance
+- topic/ai-policy
 - topic/agi-economics
 - topic/agi-positive-vision
 - topic/machines-of-loving-grace
 
+## Timelines and Forecasting
+
+- topic/agi-timelines
+
 ## Foundational Sciences
 
 - topic/computational-neuroscience
+
+---
+
+Reconciliation note (2026-07-12): `topic/agi-timelines`, `topic/ai-policy`,
+`topic/ai-scaling`, and `topic/representation-learning` were live in note
+frontmatter (with generated MOCs) but absent from this list. Appended to
+restore the controlled vocabulary to truth. See
+`_wiki/_reports/scan-2026-07-12.md`.

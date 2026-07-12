@@ -2,12 +2,20 @@
 type: moc
 title: Economic Impact - Productivity, Displacement, and Consolidation
 domain:
-  - economics
-  - policy
+- economics
+- policy
 status: permanent
 created: 2026-06-30
 updated: 2026-07-08
+topic:
+- topic/ai-economics
+- topic/labour-market
+wiki_indexed: '2026-07-12T00:00:00Z'
+wiki_hash: 2d9342495e52b3a9841eee9a856deb6d544705d410f163cbb3224f093b04cd2b
+wiki_role: moc
 ---
+
+
 
 # Economic Impact: Productivity, Displacement, and Consolidation
 
