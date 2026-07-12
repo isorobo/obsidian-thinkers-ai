@@ -18,10 +18,29 @@ alignment_view: Solvable; iterative deployment is the central strategy.
 economic_view: Abundance through compute; UBI-like redistribution required.
 policy_view: Federal licensing for frontier labs; supports an IAEA-style body.
 first_public_work: Loopt; then Y Combinator Request for Startups pieces
-key_papers: []
-key_talks: []
-key_essays: []
-interview_archive: []
+key_papers:
+- '[[10_Sources/Papers/sam-altman/gpt-4-technical-report-2023|GPT-4 Technical Report (2023)]]'
+key_talks:
+- '[[10_Sources/Media/sam-altman/senate-judiciary-testimony-2023|Senate Judiciary Testimony (2023)]]'
+- '[[10_Sources/Media/sam-altman/apec-ceo-summit-2023|APEC CEO Summit Remarks (2023)]]'
+- '[[10_Sources/Media/sam-altman/devday-2023-keynote|OpenAI DevDay 2023 Keynote]]'
+- '[[10_Sources/Media/sam-altman/senate-commerce-testimony-2025|Senate Commerce Testimony (2025)]]'
+- '[[10_Sources/Media/sam-altman/ted2025-chris-anderson|TED2025 Conversation with Chris Anderson]]'
+key_essays:
+- '[[10_Sources/Articles/sam-altman/the-merge-2017|The Merge (2017)]]'
+- '[[10_Sources/Articles/sam-altman/moores-law-for-everything|Moore''s Law for Everything (2021)]]'
+- '[[10_Sources/Books/sam-altman/startup-playbook-2015|Startup Playbook (2015)]]'
+- '[[10_Sources/Articles/sam-altman/what-i-wish-someone-had-told-me-2023|What I Wish Someone Had Told Me (2023)]]'
+- '[[10_Sources/Articles/sam-altman/the-intelligence-age|The Intelligence Age (2024)]]'
+- '[[10_Sources/Articles/sam-altman/reflections-2025|Reflections (2025)]]'
+- '[[10_Sources/Articles/sam-altman/three-observations-2025|Three Observations (2025)]]'
+interview_archive:
+- '[[10_Sources/Media/sam-altman/lex-fridman-367-2023|Lex Fridman #367 (2023)]]'
+- '[[10_Sources/Media/sam-altman/lex-fridman-419-2024|Lex Fridman #419 (2024)]]'
+- '[[10_Sources/Media/sam-altman/all-in-podcast-2024|All-In Podcast (2024)]]'
+- '[[10_Sources/Media/sam-altman/stratechery-interview-2025|Stratechery Interview (2025)]]'
+- '[[10_Sources/Media/sam-altman/huge-conversations-cleo-abram-2025|Huge Conversations with Cleo Abram (2025)]]'
+- '[[10_Sources/Media/sam-altman/conversations-with-tyler-2025|Conversations with Tyler (2025)]]'
 status: draft
 created: 2026-04-22
 updated: 2026-04-22
@@ -78,11 +97,31 @@ Stanford dropout to Loopt founder to YC president. OpenAI co-founder 2015; CEO 2
 ## Key works
 
 ### Essays and blog posts
-- [[10_Sources/Articles/sam-altman/the-intelligence-age]]
-- [[10_Sources/Articles/sam-altman/moores-law-for-everything]]
+- [[10_Sources/Articles/sam-altman/the-merge-2017|The Merge (2017)]]
+- [[10_Sources/Articles/sam-altman/moores-law-for-everything|Moore's Law for Everything (2021)]]
+- [[10_Sources/Books/sam-altman/startup-playbook-2015|Startup Playbook (2015)]]
+- [[10_Sources/Articles/sam-altman/what-i-wish-someone-had-told-me-2023|What I Wish Someone Had Told Me (2023)]]
+- [[10_Sources/Articles/sam-altman/the-intelligence-age|The Intelligence Age (2024)]]
+- [[10_Sources/Articles/sam-altman/reflections-2025|Reflections (2025)]]
+- [[10_Sources/Articles/sam-altman/three-observations-2025|Three Observations (2025)]]
+
+### Talks and testimony
+- [[10_Sources/Media/sam-altman/senate-judiciary-testimony-2023|Senate Judiciary Testimony (2023)]]
+- [[10_Sources/Media/sam-altman/apec-ceo-summit-2023|APEC CEO Summit Remarks (2023)]]
+- [[10_Sources/Media/sam-altman/devday-2023-keynote|OpenAI DevDay 2023 Keynote]]
+- [[10_Sources/Media/sam-altman/senate-commerce-testimony-2025|Senate Commerce Testimony (2025)]]
+- [[10_Sources/Media/sam-altman/ted2025-chris-anderson|TED2025 Conversation with Chris Anderson]]
 
 ### Interviews
-- [[ ]]
+- [[10_Sources/Media/sam-altman/lex-fridman-367-2023|Lex Fridman #367 (2023)]]
+- [[10_Sources/Media/sam-altman/lex-fridman-419-2024|Lex Fridman #419 (2024)]]
+- [[10_Sources/Media/sam-altman/all-in-podcast-2024|All-In Podcast (2024)]]
+- [[10_Sources/Media/sam-altman/stratechery-interview-2025|Stratechery Interview (2025)]]
+- [[10_Sources/Media/sam-altman/huge-conversations-cleo-abram-2025|Huge Conversations with Cleo Abram (2025)]]
+- [[10_Sources/Media/sam-altman/conversations-with-tyler-2025|Conversations with Tyler (2025)]]
+
+### Papers
+- [[10_Sources/Papers/sam-altman/gpt-4-technical-report-2023|GPT-4 Technical Report (2023)]]
 
 ## Related thinkers
 
@@ -92,4 +131,7 @@ Stanford dropout to Loopt founder to YC president. OpenAI co-founder 2015; CEO 2
 
 ## Sources behind this profile
 
-To be populated on first ingestion pass.
+First ingestion pass completed 2026-07-13 by wiki-thinker-researcher: 19 primary
+sources added, spanning essays, congressional testimony, conference talks, and
+podcast interviews from 2017 to 2025. See `99_Meta/wiki-thinkers/state/sam-altman.json`
+for the full retrieval record.
