@@ -186,6 +186,10 @@ key_essays:
   I Learned from Competing Against a ConvNet on ImageNet (2014)]]'
 - '[[10_Sources/Articles/andrej-karpathy/survival-guide-phd-2016|A Survival Guide
   to a PhD (2016)]]'
+- '[[10_Sources/Articles/andrej-karpathy/joined-anthropic-2026|Personal Update: I''ve
+  Joined Anthropic (2026)]]'
+- '[[10_Sources/Articles/andrej-karpathy/beyond-pelican-test-lotr-2026|Beyond the
+  Pelican Test: Claude Opus 5 Renders the Lord of the Rings (2026)]]'
 interview_archive:
 - '[[10_Sources/Media/andrej-karpathy/lex-fridman-podcast-333-2022|Andrej Karpathy
   on the Lex Fridman Podcast #333 (2022)]]'
@@ -283,6 +287,8 @@ To be populated on first ingestion pass.
 - [[10_Sources/Articles/andrej-karpathy/verifiability-2025|Verifiability]]
 - [[10_Sources/Articles/andrej-karpathy/vibe-coding-2025|Vibe Coding]]
 - [[10_Sources/Articles/andrej-karpathy/vibe-coding-menugen-2025|Vibe Coding MenuGen]]
+- [[10_Sources/Articles/andrej-karpathy/joined-anthropic-2026|Personal Update: I've Joined Anthropic]]
+- [[10_Sources/Articles/andrej-karpathy/beyond-pelican-test-lotr-2026|Beyond the Pelican Test: Claude Opus 5 Renders the Lord of the Rings]]
 - [[10_Sources/Papers/andrej-karpathy/deep-fragment-embeddings-2014|Deep Fragment Embeddings for Bidirectional Image Sentence Mapping]]
 - [[10_Sources/Papers/andrej-karpathy/deep-visual-semantic-alignments-2015|Deep Visual-Semantic Alignments for Generating Image Descriptions]]
 - [[10_Sources/Papers/andrej-karpathy/densecap-cvpr-2016|DenseCap: Fully Convolutional Localization Networks for Dense Captioning]]

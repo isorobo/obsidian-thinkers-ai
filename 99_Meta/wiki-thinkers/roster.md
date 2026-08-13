@@ -28,18 +28,18 @@ The orchestrator reads this table on every `run`.
 
 | slug | name | category | target | status |
 |---|---|---|---|---|
-| andrej-karpathy | Andrej Karpathy | researcher | 20 | active |
+| andrej-karpathy | Andrej Karpathy | researcher | 55 | active |
 | chris-olah | Chris Olah | researcher | 20 | seeded |
-| dario-amodei | Dario Amodei | frontier-lab | 20 | active |
+| dario-amodei | Dario Amodei | frontier-lab | 60 | active |
 | daron-acemoglu | Daron Acemoglu | economist | 20 | seeded |
 | demis-hassabis | Demis Hassabis | frontier-lab | 20 | seeded |
-| erik-brynjolfsson | Erik Brynjolfsson | economist | 20 | active |
-| gary-marcus | Gary Marcus | contrarian-critic | 20 | active |
-| geoffrey-hinton | Geoffrey Hinton | researcher | 20 | active |
+| erik-brynjolfsson | Erik Brynjolfsson | economist | 35 | active |
+| gary-marcus | Gary Marcus | contrarian-critic | 35 | active |
+| geoffrey-hinton | Geoffrey Hinton | researcher | 35 | active |
 | helen-toner | Helen Toner | policy-social | 20 | seeded |
 | ilya-sutskever | Ilya Sutskever | frontier-lab | 20 | seeded |
 | leopold-aschenbrenner | Leopold Aschenbrenner | forecaster-analyst | 20 | seeded |
-| paul-christiano | Paul Christiano | safety-philosophy | 20 | active |
+| paul-christiano | Paul Christiano | safety-philosophy | 35 | active |
 | sam-altman | Sam Altman | frontier-lab | 20 | seeded |
 | yann-lecun | Yann LeCun | researcher | 20 | seeded |
 | yoshua-bengio | Yoshua Bengio | researcher | 20 | seeded |
