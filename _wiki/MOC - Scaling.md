@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/scaling
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: c515a2279ad1c8111f6338b7300ffc13932b00716317306914b1f5d46ce1f5f9
+wiki_role: moc
 ---
+
 
 # Scaling
 

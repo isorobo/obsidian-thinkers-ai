@@ -1,6 +1,6 @@
 ---
 type: source
-title: "The Intelligence Age"
+title: The Intelligence Age
 authors:
 - Sam Altman
 thinker:
@@ -29,7 +29,18 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/agi-timelines
+- topic/agi-positive-vision
+- topic/compute-trends
+subject:
+- subject/sam-altman
+- subject/superintelligence
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 059fee37cdd7e9c057ed6c8d3d9c28cabbe1dfb56ace2f49ee6e46bb553e3e39
+wiki_role: wiki
 ---
+
 
 # The Intelligence Age
 

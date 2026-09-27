@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/governance
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 0dc92af9f797d878874c39ac12af9540e22f2f92acac6561b214bb7533486dd1
+wiki_role: moc
 ---
+
 
 # Governance
 

@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/machines-of-loving-grace
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: e2cb8d1b17d9a8edd53a285be43c0ffe55ce9be1a56ccb7314c31b88ed79ae14
+wiki_role: moc
 ---
+
 
 # Machines Of Loving Grace
 

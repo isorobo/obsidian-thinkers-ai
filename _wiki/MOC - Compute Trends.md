@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/compute-trends
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: d129209b86c7b4cf7b2e132d4276ef92c246cb8a23b4bba280e7e4aa1a408db6
+wiki_role: moc
 ---
+
 
 # Compute Trends
 

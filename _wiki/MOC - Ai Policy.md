@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/ai-policy
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: e6f601c022960f4b56592884efab1157a458817059405d2bcc12edc9c2f4e71e
+wiki_role: moc
 ---
+
 
 # Ai Policy
 

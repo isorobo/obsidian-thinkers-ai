@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/moc
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 7026d9248144fdbadd1c4bb34a958325ea1d5fa8b794a1729181b26216342971
+wiki_role: moc
 ---
+
 
 # Moc
 

@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/agi-economics
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 6bdb56625a239916fb30a42c22c8e531fa7d63cad75d12850f0e0cfbe3ea8e25
+wiki_role: moc
 ---
+
 
 # Agi Economics
 

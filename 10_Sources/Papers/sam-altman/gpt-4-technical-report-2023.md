@@ -30,7 +30,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/evaluations
+- topic/scaling-laws
+- topic/emergent-capabilities
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/gpt-4
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: be178f7e3bda7bc7478fefd7447d9d6696b8e0e99a7fe26f9538894a6fbc75f0
+wiki_role: wiki
 ---
+
 
 # GPT-4 Technical Report
 

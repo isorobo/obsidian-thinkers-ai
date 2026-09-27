@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/representation-learning
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 208b7c1cbf1c55876d5b1eb8d54b5a02be425a1f217ff2bfbb350e7d314c0595
+wiki_role: moc
 ---
+
 
 # Representation Learning
 

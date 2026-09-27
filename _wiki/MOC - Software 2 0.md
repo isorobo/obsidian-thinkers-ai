@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/software-2-0
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 8f286865b47b363e172a2ee7272046e2fb5e1474b49c2f4719ca4ad9aa530042
+wiki_role: moc
 ---
+
 
 # Software 2 0
 

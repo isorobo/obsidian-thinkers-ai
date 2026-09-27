@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Personal Update: I've Joined Anthropic"
+title: 'Personal Update: I''ve Joined Anthropic'
 authors:
 - Andrej Karpathy
 thinker:
@@ -28,7 +28,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-08-13
 nlm_source_id: ''
 nlm_skip: true
+topic:
+- topic/people
+- topic/education
+subject:
+- subject/andrej-karpathy
+- subject/anthropic
+- subject/eureka-labs
+- subject/nick-joseph
+wiki_indexed: '2026-08-17T08:20:52Z'
+wiki_hash: 336542509e11d104d7c215a152268243f79c86f6ab96c16ab112a950344055e8
+wiki_role: wiki
 ---
+
 
 # Personal Update: I've Joined Anthropic
 

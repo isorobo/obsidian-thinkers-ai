@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/rlhf
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 9261a0d28f37df50a61400dd9b96da65b2a36ef4754bf418f6fd7733d63b2d51
+wiki_role: moc
 ---
+
 
 # Rlhf
 

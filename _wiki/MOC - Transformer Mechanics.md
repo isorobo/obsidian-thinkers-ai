@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/transformer-mechanics
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 9d254d96f1c733f1527391b9988b0ca486174a5a4ff133b7790740743d8f6b11
+wiki_role: moc
 ---
+
 
 # Transformer Mechanics
 

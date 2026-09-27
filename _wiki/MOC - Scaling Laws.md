@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/scaling-laws
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 9c0f32997bdc1ea97d9f207426d910ec548fb62842103c81f2c1babfe566924b
+wiki_role: moc
 ---
+
 
 # Scaling Laws
 

@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/sycophancy
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: d387f6513faa1e512428b35942e16eb69eb10104fe8a230718fdfcbcf179d530
+wiki_role: moc
 ---
+
 
 # Sycophancy
 

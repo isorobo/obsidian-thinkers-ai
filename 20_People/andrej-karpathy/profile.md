@@ -208,10 +208,11 @@ topic:
 - topic/people
 subject:
 - subject/andrej-karpathy
-wiki_indexed: '2026-07-08T00:00:00Z'
-wiki_hash: 8b73fe6cbdf8f535ffc62111600606d0c0a6502633e72a5e0ea0ea3e97ddc446
+wiki_indexed: '2026-08-17T08:20:52Z'
+wiki_hash: e71912098e33e1d1fbf9d24c09e4810bef42e478951da63695ba42320d453a07
 wiki_role: wiki
 ---
+
 
 
 

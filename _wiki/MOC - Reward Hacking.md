@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/reward-hacking
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: ccb26192dbe05e5e5e4622233a9979a243d10751e3ae59b74b3d8e80f3a8f9e3
+wiki_role: moc
 ---
+
 
 # Reward Hacking
 

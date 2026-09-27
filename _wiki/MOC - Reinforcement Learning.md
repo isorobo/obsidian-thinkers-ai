@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/reinforcement-learning
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 044fbe53a4a387f73bea819e219314c65a471a8f1635ca07f37bc59c3b13d093
+wiki_role: moc
 ---
+
 
 # Reinforcement Learning
 

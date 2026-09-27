@@ -1,6 +1,6 @@
 ---
 type: source
-title: "OpenAI's Sam Altman Talks ChatGPT, AI Agents and Superintelligence"
+title: OpenAI's Sam Altman Talks ChatGPT, AI Agents and Superintelligence
 authors:
 - Sam Altman
 - Chris Anderson
@@ -29,7 +29,20 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-safety
+- topic/agi-positive-vision
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/chris-anderson
+- subject/ted
+- subject/chatgpt
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 04e0c99add04b38366fd5116164798940c646605e9cde1564e0ba5567a06108f
+wiki_role: wiki
 ---
+
 
 # OpenAI's Sam Altman Talks ChatGPT, AI Agents and Superintelligence (TED2025)
 

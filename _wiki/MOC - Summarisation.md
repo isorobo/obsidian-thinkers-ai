@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/summarisation
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: f5fea8363c15174229eacd6aa7f785c18600ed82f4bea1a80942397dd42cc49d
+wiki_role: moc
 ---
+
 
 # Summarisation
 

@@ -29,7 +29,18 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-policy
+- topic/agi-positive-vision
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/apec
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 7ddaa8458dcebe0f2f7e247de54e1d921b7fc03bfcf44d0bbcac189327dd0a1a
+wiki_role: wiki
 ---
+
 
 # Remarks at the APEC CEO Summit (2023)
 

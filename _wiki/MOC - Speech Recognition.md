@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/speech-recognition
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 7f752edece3218849d71d9aeffd43bc96e160df00fc0be2fa6d3edc0295103be
+wiki_role: moc
 ---
+
 
 # Speech Recognition
 

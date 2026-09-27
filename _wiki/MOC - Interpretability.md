@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/interpretability
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 61983ca426949ff97c532f8f3322f078b634f5cb59754835a6fcd076a8bc446e
+wiki_role: moc
 ---
+
 
 # Interpretability
 

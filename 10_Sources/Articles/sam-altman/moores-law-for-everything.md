@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Moore's Law for Everything"
+title: Moore's Law for Everything
 authors:
 - Sam Altman
 thinker:
@@ -28,7 +28,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-economics
+- topic/labour-market
+- topic/agi-economics
+subject:
+- subject/sam-altman
+- subject/universal-basic-income
+- subject/moores-law
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: e3998a1d20b5c4a6fbf3f46eccaf6fa56792cf9a0a5f7ea1987511628402ef07
+wiki_role: wiki
 ---
+
 
 # Moore's Law for Everything
 

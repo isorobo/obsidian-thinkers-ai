@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/convnets
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: b7b871bd653ea048cf71bf2b5117b3c4113e7ff3035238b3c83ba6ad305635c8
+wiki_role: moc
 ---
+
 
 # Convnets
 

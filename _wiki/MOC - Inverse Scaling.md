@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/inverse-scaling
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: f69f3c553299f65da9301922d87b508b73b502a3557b9dd22845a83ee2e0b44c
+wiki_role: moc
 ---
+
 
 # Inverse Scaling
 

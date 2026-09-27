@@ -27,7 +27,15 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/agi-positive-vision
+subject:
+- subject/sam-altman
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 4f4a08d4f72f025466803472f8f32ee9b55c7bad64f1113687acd5dc17cfbcb9
+wiki_role: wiki
 ---
+
 
 # The Merge
 

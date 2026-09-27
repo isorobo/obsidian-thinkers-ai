@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/constitutional-ai
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 3a99e90e6f2ba1af3af6903d4130081c3f1cd8b12286339927d8ad21fa364b60
+wiki_role: moc
 ---
+
 
 # Constitutional Ai
 

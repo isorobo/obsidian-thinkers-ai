@@ -28,7 +28,20 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/compute-trends
+- topic/agi-timelines
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/ben-thompson
+- subject/stratechery
+- subject/chatgpt
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 06dcdbc9a70a49c17c0884ca8745688d65198ace729b11078fc1c588ccd5ca61
+wiki_role: wiki
 ---
+
 
 # An Interview with OpenAI CEO Sam Altman About DevDay and the AI Buildout
 

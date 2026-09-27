@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/people
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 7823151abdc5bda22e72b9db37bdf745cab846a6496780b18dce55df46905de8
+wiki_role: moc
 ---
+
 
 # People
 

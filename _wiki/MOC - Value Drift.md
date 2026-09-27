@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/value-drift
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 7caa1f37021a1992518b6d830a7d4c755e704130e4bc41e1a0299ee997cb2ff0
+wiki_role: moc
 ---
+
 
 # Value Drift
 

@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/scalable-oversight
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 67c893bdc61e79116b09cb3071fca6310fdf4562c5771585091eb8f6c7e49e1a
+wiki_role: moc
 ---
+
 
 # Scalable Oversight
 

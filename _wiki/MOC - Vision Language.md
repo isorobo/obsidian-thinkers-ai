@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/vision-language
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 9bdbf3e04e056bdb49d203da22bb6cf23c5d86e0fc98822a496b40f68e2405cc
+wiki_role: moc
 ---
+
 
 # Vision Language
 

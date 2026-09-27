@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/program-induction
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 186edb6551cb3cad0fb9b9e8c23a45f3dc3280f45a43cff4aaf0f81eec532c8b
+wiki_role: moc
 ---
+
 
 # Program Induction
 

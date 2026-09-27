@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/ai-safety
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: a47a1c2ba13c46adb19695c2125163ae1c8f2c96b2d391f1febf6db6b1cc3607
+wiki_role: moc
 ---
+
 
 # Ai Safety
 

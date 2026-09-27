@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/education
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: ee9bf695e1b284db0ac4afdc6274bfd2f1e1814735784c10de6edfcd20b583bd
+wiki_role: moc
 ---
+
 
 # Education
 

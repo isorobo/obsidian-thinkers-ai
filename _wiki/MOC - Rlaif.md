@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/rlaif
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: a323ec78109d2fa6ba041e428b1a0337ca1a9011ff119c275694dc171e8cd7f4
+wiki_role: moc
 ---
+
 
 # Rlaif
 

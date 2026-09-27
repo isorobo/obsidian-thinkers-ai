@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/language-model-finetuning
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 3252cd0b1e26d72308eb2ca420b6abe31aaf9018818c5433b42fc2cef9e24990
+wiki_role: moc
 ---
+
 
 # Language Model Finetuning
 

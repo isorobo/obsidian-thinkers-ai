@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/alignment
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: e09ed53f9987211c83dcc8ec2c94a128cd15c8434ace3f748569f3b4c51f89d5
+wiki_role: moc
 ---
+
 
 # Alignment
 

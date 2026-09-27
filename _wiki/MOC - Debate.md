@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/debate
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 35df2d495c7c9b83cb27b74592081f6e5eae880316ad8446eb52fd20074fb1fe
+wiki_role: moc
 ---
+
 
 # Debate
 

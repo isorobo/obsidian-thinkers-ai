@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/computational-neuroscience
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 97fb11e63e6a509a0de5b682812024efba32da4175918541d232d08a6c6a88ab
+wiki_role: moc
 ---
+
 
 # Computational Neuroscience
 

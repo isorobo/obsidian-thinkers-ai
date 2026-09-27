@@ -29,7 +29,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/compute-trends
+- topic/agi-timelines
+subject:
+- subject/sam-altman
+- subject/lex-fridman
+- subject/openai
+- subject/gpt-4
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: f5d07a77366b7e81ab0af508c566edd323c051588b99496d95bae4294a91dd0f
+wiki_role: wiki
 ---
+
 
 # Sam Altman on Lex Fridman #419 (2024)
 

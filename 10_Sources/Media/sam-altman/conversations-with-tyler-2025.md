@@ -28,7 +28,17 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-safety
+- topic/compute-trends
+subject:
+- subject/sam-altman
+- subject/tyler-cowen
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: a92d470279e86d1f483cd76ec30636e3ec314f8509e7b19f8f6da4544e756a55
+wiki_role: wiki
 ---
+
 
 # Sam Altman on Trust, Persuasion, and the Future of Intelligence
 

@@ -29,7 +29,21 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/alignment
+- topic/rlhf
+- topic/agi-timelines
+subject:
+- subject/sam-altman
+- subject/lex-fridman
+- subject/openai
+- subject/gpt-4
+- subject/chatgpt
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: d3423333c3a627f3dc28b9897d007b008aac349c2262bad947023f113826e9eb
+wiki_role: wiki
 ---
+
 
 # Sam Altman on GPT-4, ChatGPT, and the Future of AI (Lex Fridman #367)
 

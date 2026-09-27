@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/iterated-amplification
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 7b81cce007dbab016107ed2cd44e708c410ac8a658cfbc50e61b3c54bb23cd9f
+wiki_role: moc
 ---
+
 
 # Iterated Amplification
 

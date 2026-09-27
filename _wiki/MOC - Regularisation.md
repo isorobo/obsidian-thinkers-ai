@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/regularisation
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 0cfce4bb37420642959db957b2199d40e3bef2701cb803e43b947eafc94fc3ad
+wiki_role: moc
 ---
+
 
 # Regularisation
 

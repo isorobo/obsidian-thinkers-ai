@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/ai-scaling
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 8f9a75a950a4edabdfa7509b19b7948c32a743fbb8bb7b251c26b67d0d2f055d
+wiki_role: moc
 ---
+
 
 # Ai Scaling
 

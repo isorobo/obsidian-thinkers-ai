@@ -28,7 +28,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/agi-timelines
+- topic/agi-positive-vision
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/agi
+- subject/superintelligence
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 60f82852d24f6ff53fbdb1ad5ff3f1c71e5938bbbfcb4b43db2954ccc8507118
+wiki_role: wiki
 ---
+
 
 # Reflections
 

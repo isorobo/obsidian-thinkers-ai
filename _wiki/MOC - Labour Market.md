@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/labour-market
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 123cfbbd28377ce2aff7d1242c2a21da3038cd5838891b990fe8818bf5e9551e
+wiki_role: moc
 ---
+
 
 # Labour Market
 

@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/knowledge-distillation
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: ff677197f439e49e8b937ad49bbbdbf10e516f22149eb42cc28f9911867fbdc9
+wiki_role: moc
 ---
+
 
 # Knowledge Distillation
 

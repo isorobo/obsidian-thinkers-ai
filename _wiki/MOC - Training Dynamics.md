@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/training-dynamics
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 66d920b36492c5c34ed1305075b1f144e4763da2cc34ee6d7517d4f1bb74f41f
+wiki_role: moc
 ---
+
 
 # Training Dynamics
 

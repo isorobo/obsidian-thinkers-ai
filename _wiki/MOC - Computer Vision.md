@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/computer-vision
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: dc9d75aef54306ff72edd6280474b0d39dc8807038c294edf4a4901ed703a511
+wiki_role: moc
 ---
+
 
 # Computer Vision
 

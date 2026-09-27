@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Beyond the Pelican Test: Claude Opus 5 Renders the Lord of the Rings"
+title: 'Beyond the Pelican Test: Claude Opus 5 Renders the Lord of the Rings'
 authors:
 - Andrej Karpathy
 thinker:
@@ -27,7 +27,20 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-08-13
 nlm_source_id: ''
 nlm_skip: true
+topic:
+- topic/evaluations
+- topic/emergent-capabilities
+subject:
+- subject/andrej-karpathy
+- subject/claude-ai
+- subject/anthropic
+- subject/pelican-test
+- subject/three-js
+wiki_indexed: '2026-08-17T08:20:52Z'
+wiki_hash: 85ee45dfc67fd2eb944e604b0d8783f7b0123a7279e6747b13078eec59c98a2f
+wiki_role: wiki
 ---
+
 
 # Beyond the Pelican Test: Claude Opus 5 Renders the Lord of the Rings
 

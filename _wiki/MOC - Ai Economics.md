@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/ai-economics
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 1cb323f061780ff1146d06fba82ccf130b0c7b5df1371d917a2df510746432ce
+wiki_role: moc
 ---
+
 
 # Ai Economics
 

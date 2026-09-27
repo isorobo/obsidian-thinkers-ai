@@ -30,7 +30,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-policy
+- topic/governance
+- topic/ai-safety
+subject:
+- subject/sam-altman
+- subject/us-senate
+- subject/openai
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: dc442bf41e59e63c46f0a22977fbc76e8252f4ce331aec10248d184a306e2b3b
+wiki_role: wiki
 ---
+
 
 # Senate Judiciary Testimony - Sam Altman (2023)
 

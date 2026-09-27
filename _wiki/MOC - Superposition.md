@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/superposition
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: ccc46eec4c0c462742405739dd227f1dcc40b17fc0d787f71f0450ac94ddefda
+wiki_role: moc
 ---
+
 
 # Superposition
 

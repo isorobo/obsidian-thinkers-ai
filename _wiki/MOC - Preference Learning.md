@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/preference-learning
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 142fa6a9faa530b9d53a31fc1ff331449d32e925fbd03271ea4fe0c13cf58171
+wiki_role: moc
 ---
+
 
 # Preference Learning
 

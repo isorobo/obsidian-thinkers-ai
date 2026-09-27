@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/meta
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: d223c27d1058a07abc48e131852d467ad57744084cf31ea32c866f8a1676a124
+wiki_role: moc
 ---
+
 
 # Meta
 

@@ -27,7 +27,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-safety
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/chatgpt
+- subject/gpt-4
+- subject/devday
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 8736aae110a55bb43e44e0fc01796809819e411397ea4d6cca8c668cf5bb3f02
+wiki_role: wiki
 ---
+
 
 # OpenAI DevDay 2023 Opening Keynote
 

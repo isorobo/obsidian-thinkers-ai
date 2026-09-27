@@ -30,7 +30,20 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/ai-policy
+- topic/governance
+- topic/compute-trends
+subject:
+- subject/sam-altman
+- subject/us-senate
+- subject/openai
+- subject/chatgpt
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: d21e4b63472fd75f161da0c2525b76eb825669d9287c8cf14cc69e47d3f95a44
+wiki_role: wiki
 ---
+
 
 # Senate Commerce Testimony - Sam Altman (2025)
 

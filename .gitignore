@@ -52,3 +52,6 @@ Thumbs.db
 desktop.ini
 *.swp
 *~
+
+# Voice plugin config holds cloud credentials; never commit it.
+.obsidian/plugins/voice/data.json

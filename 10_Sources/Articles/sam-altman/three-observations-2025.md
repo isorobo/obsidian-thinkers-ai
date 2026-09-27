@@ -27,7 +27,19 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/scaling-laws
+- topic/ai-economics
+- topic/agi-economics
+subject:
+- subject/sam-altman
+- subject/openai
+- subject/gpt-4
+wiki_indexed: '2026-07-25T18:11:22Z'
+wiki_hash: 4c3f568fd8174ce62e9aa741fbf82fb0930960af011b2dcab4465ec279b41f21
+wiki_role: wiki
 ---
+
 
 # Three Observations
 

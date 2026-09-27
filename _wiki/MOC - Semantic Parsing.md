@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/semantic-parsing
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 4fc6a841e580c706d0de9d9a3d5aa54e58bfc6d754238198e34c0e3e888e564d
+wiki_role: moc
 ---
+
 
 # Semantic Parsing
 

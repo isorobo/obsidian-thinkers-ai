@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/options-framework
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 165c48915c03691fd771482cd54494f4d9796057b21bbbcb6fe32b45e5005221
+wiki_role: moc
 ---
+
 
 # Options Framework
 

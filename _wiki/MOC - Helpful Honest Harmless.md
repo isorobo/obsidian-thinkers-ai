@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/helpful-honest-harmless
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: 6189ffdfc09e7f00a465462241c7d27a3f11b96e76cc6af3bec62ec4f828531f
+wiki_role: moc
 ---
+
 
 # Helpful Honest Harmless
 

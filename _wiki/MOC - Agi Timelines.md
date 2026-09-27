@@ -1,8 +1,10 @@
 ---
-wiki_role: moc
 topic_full: topic/agi-timelines
-wiki_indexed: 2026-07-11T18:21:15Z
+wiki_indexed: '2026-08-23T08:30:00Z'
+wiki_hash: f1b90ef65df512ee3b86cea4881fa41e1b03ea5da5e357a117a5f55a595bc81c
+wiki_role: moc
 ---
+
 
 # Agi Timelines
 

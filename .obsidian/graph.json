@@ -5,8 +5,79 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:20_People",
+      "color": {
+        "a": 1,
+        "rgb": 4915330
+      }
+    },
+    {
+      "query": "path:50_MOCs",
+      "color": {
+        "a": 1,
+        "rgb": 14725690
+      }
+    },
+    {
+      "query": "path:10_Sources/Papers",
+      "color": {
+        "a": 1,
+        "rgb": 3900100
+      }
+    },
+    {
+      "query": "path:10_Sources/Articles",
+      "color": {
+        "a": 1,
+        "rgb": 4170573
+      }
+    },
+    {
+      "query": "path:10_Sources/Media",
+      "color": {
+        "a": 1,
+        "rgb": 14715422
+      }
+    },
+    {
+      "query": "path:10_Sources/Books",
+      "color": {
+        "a": 1,
+        "rgb": 10251071
+      }
+    },
+    {
+      "query": "path:10_Sources/NotebookLM",
+      "color": {
+        "a": 1,
+        "rgb": 2074278
+      }
+    },
+    {
+      "query": "path:30_Concepts",
+      "color": {
+        "a": 1,
+        "rgb": 8146366
+      }
+    },
+    {
+      "query": "path:40_Domains",
+      "color": {
+        "a": 1,
+        "rgb": 14042437
+      }
+    },
+    {
+      "query": "path:99_Meta OR path:90_Templates",
+      "color": {
+        "a": 1,
+        "rgb": 9081760
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.2,
@@ -17,6 +88,6 @@
   "repelStrength": 10.1041666666667,
   "linkStrength": 0.40625,
   "linkDistance": 196,
-  "scale": 0.1846232622585765,
+  "scale": 0.13168724279834954,
   "close": true
 }
