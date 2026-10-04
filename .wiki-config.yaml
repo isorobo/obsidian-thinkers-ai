@@ -1,6 +1,8 @@
 # Wiki skill configuration for the AI Thinkers vault.
 # Created during Dario Amodei pilot ingestion (April 2026).
+# Rebuilt-engine keys added 2026-10-04 (see wiki-engine specs/wiki.md section 2.3).
 
+engine: wiki-thinkers
 vault_name: "AI Thinkers"
 
 excluded_folders:
@@ -10,6 +12,7 @@ excluded_folders:
   - ".claude"
   - ".claudian"
   - ".remember"
+  - ".workspace"
   - "_wiki/_quarantine"
   - "00_Inbox"
   - "60_Drafts"
@@ -26,3 +29,17 @@ confidence_threshold: 0.7
 max_topics_per_note: 3
 topic_depth: 3
 vocabulary_version: 1
+
+reports_dir: "_wiki/_reports"
+report_prefix: ""
+vocabulary_source: "_wiki/_taxonomy/topics.md"
+subjects_file: "_wiki/_taxonomy/subjects.md"
+pending_file: "_wiki/_taxonomy/_pending.md"
+moc_mode: generate
+moc_dir: "_wiki"
+moc_name_style: title
+structural_topics: [topic/meta, topic/moc, topic/people]
+tag_scope: []
+tag_roles: [wiki]
+never_write: []
+role_by_prefix: {}

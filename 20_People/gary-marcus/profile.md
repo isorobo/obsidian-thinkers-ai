@@ -59,7 +59,7 @@ key_essays:
   Intelligence We Can Trust]]'
 - '[[10_Sources/Books/gary-marcus/taming-silicon-valley-2024|Taming Silicon Valley:
   How We Can Ensure That AI Works for Us]]'
-interview_archive: null
+interview_archive: []
 status: draft
 created: 2026-04-22
 updated: 2026-04-22
@@ -125,7 +125,6 @@ Cognitive scientist. "The Birth of the Mind" (2004). Founder of Geometric Intell
 
 ## Sources behind this profile
 
-To be populated on first ingestion pass.
 - [[10_Sources/Articles/gary-marcus/25-ai-predictions-2025|25 AI Predictions for 2025, from Marcus on AI]]
 - [[10_Sources/Articles/gary-marcus/deep-learning-alone-human-like-ai-2022|Deep Learning Alone Isn't Getting Us To Human-Like AI]]
 - [[10_Sources/Articles/gary-marcus/deep-learning-is-hitting-a-wall-2022|Deep Learning Is Hitting a Wall]]
@@ -135,6 +134,12 @@ To be populated on first ingestion pass.
 - [[10_Sources/Articles/gary-marcus/short-term-vs-long-term-ai-risk-2023|Should We Worry More About Short-Term AI Risk or Long-Term AI Risk?]]
 - [[10_Sources/Books/gary-marcus/rebooting-ai-2019|Rebooting AI: Building Artificial Intelligence We Can Trust]]
 - [[10_Sources/Books/gary-marcus/taming-silicon-valley-2024|Taming Silicon Valley: How We Can Ensure That AI Works for Us]]
+- [[10_Sources/Media/gary-marcus/ai-debate-bengio-2019|AI Debate: Gary Marcus and Yoshua Bengio on the Best Way Forward for AI]]
+- [[10_Sources/Media/gary-marcus/exponential-view-beyond-deep-learning-2023|Beyond Deep Learning (with Gary Marcus)]]
+- [[10_Sources/Media/gary-marcus/ieee-spectrum-ais-leading-critic-2024|How and Why Gary Marcus Became AI's Leading Critic]]
+- [[10_Sources/Media/gary-marcus/lex-fridman-hybrid-deep-learning-symbolic-2019|Gary Marcus: Toward a Hybrid of Deep Learning and Symbolic AI]]
+- [[10_Sources/Media/gary-marcus/senate-testimony-2023|Senate Testimony: Oversight of A.I. - Rules for Artificial Intelligence]]
+- [[10_Sources/Media/gary-marcus/techpolicy-press-tame-silicon-valley-2024|Gary Marcus Wants to Tame Silicon Valley]]
 - [[10_Sources/Papers/gary-marcus/deep-learning-a-critical-appraisal-2018|Deep Learning: A Critical Appraisal]]
 - [[10_Sources/Papers/gary-marcus/gpt-3-commonsense-reasoning-tests-2020|GPT-3: Commonsense Reasoning (157 Tests)]]
 - [[10_Sources/Papers/gary-marcus/gpt-3-commonsense-status-report-2022|Experiments in Commonsense Reasoning in GPT-3: Status Report from June 2022]]

@@ -30,6 +30,23 @@ key_papers:
   Algorithm: Some Preliminary Investigations]]'
 - '[[10_Sources/Papers/geoffrey-hinton/imagenet-alexnet-2012|ImageNet Classification
   with Deep Convolutional Neural Networks]]'
+- '[[10_Sources/Papers/geoffrey-hinton/acoustic-modeling-2012|Deep Neural Networks
+  for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups]]'
+- '[[10_Sources/Papers/geoffrey-hinton/deep-boltzmann-machines-2009|Deep Boltzmann
+  Machines]]'
+- '[[10_Sources/Papers/geoffrey-hinton/layer-normalization-2016|Layer Normalization]]'
+- '[[10_Sources/Papers/geoffrey-hinton/reducing-dimensionality-2006|Reducing the Dimensionality
+  of Data with Neural Networks]]'
+- '[[10_Sources/Papers/geoffrey-hinton/relu-rbm-2010|Rectified Linear Units Improve
+  Restricted Boltzmann Machines]]'
+- '[[10_Sources/Papers/geoffrey-hinton/simclr-2020|A Simple Framework for Contrastive
+  Learning of Visual Representations]]'
+- '[[10_Sources/Papers/geoffrey-hinton/similarity-representations-cka-2019|Similarity
+  of Neural Network Representations Revisited]]'
+- '[[10_Sources/Papers/geoffrey-hinton/speech-recognition-deep-rnn-2013|Speech Recognition
+  with Deep Recurrent Neural Networks]]'
+- '[[10_Sources/Papers/geoffrey-hinton/visualizing-tsne-2008|Visualizing Data using
+  t-SNE]]'
 key_talks:
 - '[[10_Sources/Media/geoffrey-hinton/60-minutes-2023|Godfather of Artificial Intelligence
   Geoffrey Hinton on the promise, risks]]'
@@ -145,14 +162,11 @@ Boltzmann machines (1985), backpropagation popularisation, contrastive divergenc
 ## Sources behind this profile
 
 Corpus of 20 verified sources under `10_Sources/{Papers,Articles,Media}/geoffrey-hinton/`: 6 papers, 3 essays, 4 talks, 5 interviews, 2 podcasts. See the source MOC for the full list.
-- [[10_Sources/Papers/geoffrey-hinton/deep-belief-nets-2006|A fast learning algorithm for deep belief nets]]
-- [[10_Sources/Papers/geoffrey-hinton/distilling-knowledge-2015|Distilling the Knowledge in a Neural Network]]
-- [[10_Sources/Papers/geoffrey-hinton/dropout-2014|Improving neural networks by preventing co-adaptation of feature detectors]]
-- [[10_Sources/Papers/geoffrey-hinton/dynamic-routing-capsules-2017|Dynamic Routing Between Capsules]]
-- [[10_Sources/Papers/geoffrey-hinton/forward-forward-algorithm-2022|The Forward-Forward Algorithm: Some Preliminary Investigations]]
-- [[10_Sources/Papers/geoffrey-hinton/imagenet-alexnet-2012|ImageNet Classification with Deep Convolutional Neural Networks]]
+- [[10_Sources/Articles/geoffrey-hinton/deep-learning-review-2015|Deep learning]]
+- [[10_Sources/Articles/geoffrey-hinton/glom-part-whole-hierarchies-2021|How to represent part-whole hierarchies in a neural network]]
+- [[10_Sources/Articles/geoffrey-hinton/rbm-practical-guide-2010|A Practical Guide to Training Restricted Boltzmann Machines]]
 - [[10_Sources/Media/geoffrey-hinton/60-minutes-2023|Godfather of Artificial Intelligence Geoffrey Hinton on the promise, risks]]
-- [[10_Sources/Media/geoffrey-hinton/diary-of-a-ceo-2025|Godfather of AI: I Tried to Warn Them, But We''ve Already Lost Control! Geoffrey]]
+- [[10_Sources/Media/geoffrey-hinton/diary-of-a-ceo-2025|Godfather of AI: I Tried to Warn Them, But We've Already Lost Control! Geoffrey]]
 - [[10_Sources/Media/geoffrey-hinton/jon-stewart-weekly-show-2025|AI: What Could Go Wrong? Geoffrey Hinton on The Weekly Show with Jon Stewart]]
 - [[10_Sources/Media/geoffrey-hinton/mit-emtech-2023|Possible End of Humanity from AI? Geoffrey Hinton at MIT EmTech Digital]]
 - [[10_Sources/Media/geoffrey-hinton/mit-tech-review-2023|Geoffrey Hinton tells us why he's now scared of the tech he helped build]]
@@ -162,3 +176,18 @@ Corpus of 20 verified sources under `10_Sources/{Papers,Articles,Media}/geoffrey
 - [[10_Sources/Media/geoffrey-hinton/nobel-podcast-2025|Geoffrey Hinton Nobel Prize Podcast]]
 - [[10_Sources/Media/geoffrey-hinton/on-point-2025|The Godfather of AI says we can't afford to get it wrong]]
 - [[10_Sources/Media/geoffrey-hinton/two-paths-to-intelligence-2023|Two Paths to Intelligence]]
+- [[10_Sources/Papers/geoffrey-hinton/acoustic-modeling-2012|Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups]]
+- [[10_Sources/Papers/geoffrey-hinton/deep-belief-nets-2006|A fast learning algorithm for deep belief nets]]
+- [[10_Sources/Papers/geoffrey-hinton/deep-boltzmann-machines-2009|Deep Boltzmann Machines]]
+- [[10_Sources/Papers/geoffrey-hinton/distilling-knowledge-2015|Distilling the Knowledge in a Neural Network]]
+- [[10_Sources/Papers/geoffrey-hinton/dropout-2014|Improving neural networks by preventing co-adaptation of feature detectors]]
+- [[10_Sources/Papers/geoffrey-hinton/dynamic-routing-capsules-2017|Dynamic Routing Between Capsules]]
+- [[10_Sources/Papers/geoffrey-hinton/forward-forward-algorithm-2022|The Forward-Forward Algorithm: Some Preliminary Investigations]]
+- [[10_Sources/Papers/geoffrey-hinton/imagenet-alexnet-2012|ImageNet Classification with Deep Convolutional Neural Networks]]
+- [[10_Sources/Papers/geoffrey-hinton/layer-normalization-2016|Layer Normalization]]
+- [[10_Sources/Papers/geoffrey-hinton/reducing-dimensionality-2006|Reducing the Dimensionality of Data with Neural Networks]]
+- [[10_Sources/Papers/geoffrey-hinton/relu-rbm-2010|Rectified Linear Units Improve Restricted Boltzmann Machines]]
+- [[10_Sources/Papers/geoffrey-hinton/simclr-2020|A Simple Framework for Contrastive Learning of Visual Representations]]
+- [[10_Sources/Papers/geoffrey-hinton/similarity-representations-cka-2019|Similarity of Neural Network Representations Revisited]]
+- [[10_Sources/Papers/geoffrey-hinton/speech-recognition-deep-rnn-2013|Speech Recognition with Deep Recurrent Neural Networks]]
+- [[10_Sources/Papers/geoffrey-hinton/visualizing-tsne-2008|Visualizing Data using t-SNE]]

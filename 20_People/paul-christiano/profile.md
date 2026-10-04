@@ -58,7 +58,7 @@ key_essays:
   like]]'
 - '[[10_Sources/Articles/paul-christiano/where-i-agree-disagree-eliezer-2022|Where
   I agree and disagree with Eliezer]]'
-interview_archive: null
+interview_archive: []
 status: draft
 created: 2026-04-22
 updated: 2026-04-22
@@ -121,7 +121,6 @@ RLHF paper (2017) with Jan Leike and others. OpenAI alignment lead. ARC founder 
 
 ## Sources behind this profile
 
-To be populated on first ingestion pass.
 - [[10_Sources/Articles/paul-christiano/ai-alignment-landscape-2019|AI alignment landscape]]
 - [[10_Sources/Articles/paul-christiano/ama-alignment-researcher-2021|AMA: Paul Christiano, alignment researcher]]
 - [[10_Sources/Articles/paul-christiano/another-outer-alignment-failure-story-2021|Another (outer) alignment failure story]]
@@ -132,13 +131,13 @@ To be populated on first ingestion pass.
 - [[10_Sources/Articles/paul-christiano/takeoff-speeds-2018|Takeoff speeds]]
 - [[10_Sources/Articles/paul-christiano/what-failure-looks-like|What failure looks like]]
 - [[10_Sources/Articles/paul-christiano/where-i-agree-disagree-eliezer-2022|Where I agree and disagree with Eliezer]]
-- [[10_Sources/Papers/paul-christiano/ai-safety-via-debate-2018|AI safety via debate]]
-- [[10_Sources/Papers/paul-christiano/concrete-problems-2016|Concrete Problems in AI Safety]]
-- [[10_Sources/Papers/paul-christiano/elk-2021|Eliciting Latent Knowledge: How to tell if your eyes deceive you]]
-- [[10_Sources/Papers/paul-christiano/iterated-amplification-2018|Supervising strong learners by amplifying weak experts]]
-- [[10_Sources/Papers/paul-christiano/rlhf-2017|Deep reinforcement learning from human preferences]]
 - [[10_Sources/Media/paul-christiano/80000-hours-44-alignment-solutions-2018|Paul Christiano on how OpenAI is developing real solutions to the AI alignment]]
 - [[10_Sources/Media/paul-christiano/80000-hours-62-message-for-the-future-2019|Paul Christiano on whether we should leave a helpful message for future civilisations]]
 - [[10_Sources/Media/paul-christiano/axrp-ai-existential-risk-2021|AXRP 12: AI Existential Risk with Paul Christiano]]
 - [[10_Sources/Media/paul-christiano/dwarkesh-preventing-ai-takeover-2023|Paul Christiano: Preventing AI Takeover]]
 - [[10_Sources/Media/paul-christiano/ea-global-current-work-2019|Current work in AI alignment]]
+- [[10_Sources/Papers/paul-christiano/ai-safety-via-debate-2018|AI safety via debate]]
+- [[10_Sources/Papers/paul-christiano/concrete-problems-2016|Concrete Problems in AI Safety]]
+- [[10_Sources/Papers/paul-christiano/elk-2021|Eliciting Latent Knowledge: How to tell if your eyes deceive you]]
+- [[10_Sources/Papers/paul-christiano/iterated-amplification-2018|Supervising strong learners by amplifying weak experts]]
+- [[10_Sources/Papers/paul-christiano/rlhf-2017|Deep reinforcement learning from human preferences]]

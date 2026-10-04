@@ -145,3 +145,23 @@ First ingestion pass completed 2026-07-13 by wiki-thinker-researcher: 19 primary
 sources added, spanning essays, congressional testimony, conference talks, and
 podcast interviews from 2017 to 2025. See `99_Meta/wiki-thinkers/state/sam-altman.json`
 for the full retrieval record.
+
+- [[10_Sources/Articles/sam-altman/moores-law-for-everything|Moore's Law for Everything]]
+- [[10_Sources/Articles/sam-altman/reflections-2025|Reflections]]
+- [[10_Sources/Articles/sam-altman/the-intelligence-age|The Intelligence Age]]
+- [[10_Sources/Articles/sam-altman/the-merge-2017|The Merge]]
+- [[10_Sources/Articles/sam-altman/three-observations-2025|Three Observations]]
+- [[10_Sources/Articles/sam-altman/what-i-wish-someone-had-told-me-2023|What I Wish Someone Had Told Me]]
+- [[10_Sources/Books/sam-altman/startup-playbook-2015|Startup Playbook]]
+- [[10_Sources/Media/sam-altman/all-in-podcast-2024|In Conversation with Sam Altman]]
+- [[10_Sources/Media/sam-altman/apec-ceo-summit-2023|Remarks at the APEC CEO Summit]]
+- [[10_Sources/Media/sam-altman/conversations-with-tyler-2025|Sam Altman on Trust, Persuasion, and the Future of Intelligence]]
+- [[10_Sources/Media/sam-altman/devday-2023-keynote|OpenAI DevDay 2023 Opening Keynote]]
+- [[10_Sources/Media/sam-altman/huge-conversations-cleo-abram-2025|OpenAI CEO Sam Altman's Interview on Huge Conversations]]
+- [[10_Sources/Media/sam-altman/lex-fridman-367-2023|Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI]]
+- [[10_Sources/Media/sam-altman/lex-fridman-419-2024|Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI]]
+- [[10_Sources/Media/sam-altman/senate-commerce-testimony-2025|Testimony: Winning the AI Race - Strengthening U.S. Capabilities in Computing and Innovation]]
+- [[10_Sources/Media/sam-altman/senate-judiciary-testimony-2023|Written Testimony of Sam Altman, Chief Executive Officer, OpenAI]]
+- [[10_Sources/Media/sam-altman/stratechery-interview-2025|An Interview with OpenAI CEO Sam Altman About DevDay and the AI Buildout]]
+- [[10_Sources/Media/sam-altman/ted2025-chris-anderson|OpenAI's Sam Altman Talks ChatGPT, AI Agents and Superintelligence]]
+- [[10_Sources/Papers/sam-altman/gpt-4-technical-report-2023|GPT-4 Technical Report]]
