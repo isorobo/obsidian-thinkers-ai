@@ -60,6 +60,8 @@ key_talks:
 - '[[10_Sources/Media/andrej-karpathy/state-of-gpt-2023|State of GPT (2023)]]'
 - '[[10_Sources/Media/andrej-karpathy/vibe-coding-to-agentic-engineering-2026|From
   Vibe Coding to Agentic Engineering (2026)]]'
+- '[[10_Sources/Media/andrej-karpathy/tesla-ai-day-vision-2021|Tesla AI Day - Andrej
+  Karpathy on the Autopilot Vision Stack]]'
 key_essays:
 - '[[10_Sources/Articles/andrej-karpathy/2025-llm-year-in-review|2025 LLM Year in
   Review (2025)]]'
@@ -126,8 +128,8 @@ topic:
 - topic/people
 subject:
 - subject/andrej-karpathy
-wiki_indexed: '2026-10-04T02:41:35Z'
-wiki_hash: c821d744b25ee24eddc220214ed55fd0b7caa2d2c2982846a4ed5d5d801cc96f
+wiki_indexed: '2026-10-04T03:18:02Z'
+wiki_hash: 0381314f71bcc7c7f869c12f10fd22ffeb4134ee6657e3aced73f3931b89b50e
 wiki_role: wiki
 ---
 
@@ -220,6 +222,7 @@ Stanford PhD under Fei-Fei Li. CS231n instructor. OpenAI founding member 2015. T
 - [[10_Sources/Media/andrej-karpathy/scaled-ml-2020-full-self-driving|AI for Full Self-Driving at Tesla]]
 - [[10_Sources/Media/andrej-karpathy/software-is-changing-again-2025|Software Is Changing (Again)]]
 - [[10_Sources/Media/andrej-karpathy/state-of-gpt-2023|State of GPT]]
+- [[10_Sources/Media/andrej-karpathy/tesla-ai-day-vision-2021|Tesla AI Day - Andrej Karpathy on the Autopilot Vision Stack]]
 - [[10_Sources/Media/andrej-karpathy/vibe-coding-to-agentic-engineering-2026|From Vibe Coding to Agentic Engineering]]
 - [[10_Sources/Papers/andrej-karpathy/deep-fragment-embeddings-2014|Deep Fragment Embeddings for Bidirectional Image Sentence Mapping]]
 - [[10_Sources/Papers/andrej-karpathy/deep-visual-semantic-alignments-2015|Deep Visual-Semantic Alignments for Generating Image Descriptions]]

@@ -49,6 +49,8 @@ key_papers:
   t-SNE]]'
 - '[[10_Sources/Papers/geoffrey-hinton/big-self-supervised-models-2020|Big Self-Supervised
   Models are Strong Semi-Supervised Learners]]'
+- '[[10_Sources/Papers/geoffrey-hinton/managing-extreme-ai-risks-amid-rapid-progress-2024|Managing
+  extreme AI risks amid rapid progress]]'
 key_talks:
 - '[[10_Sources/Media/geoffrey-hinton/60-minutes-2023|Godfather of Artificial Intelligence
   Geoffrey Hinton on the promise, risks]]'
@@ -72,6 +74,8 @@ key_talks:
   afford to get it wrong]]'
 - '[[10_Sources/Media/geoffrey-hinton/two-paths-to-intelligence-2023|Two Paths to
   Intelligence]]'
+- '[[10_Sources/Media/geoffrey-hinton/ewan-lecture-living-alien-beings-2026|Living
+  with Alien Beings (2026 Ewan Lecture)]]'
 key_essays:
 - '[[10_Sources/Articles/geoffrey-hinton/deep-learning-review-2015|Deep learning]]'
 - '[[10_Sources/Articles/geoffrey-hinton/glom-part-whole-hierarchies-2021|How to represent
@@ -83,6 +87,13 @@ interview_archive:
   Why he is now scared of the tech he helped build]]'
 - '[[10_Sources/Media/geoffrey-hinton/60-minutes-2023|60 Minutes: Promise and risks
   of advanced AI]]'
+- '[[10_Sources/Media/geoffrey-hinton/startalk-ai-hiding-full-power-2026|Is AI Hiding
+  Its Full Power? w/ Geoffrey Hinton]]'
+- '[[10_Sources/Media/geoffrey-hinton/cbs-mornings-silva-braga-2025|Brook Silva-Braga
+  Interviews Geoffrey Hinton on CBS Mornings]]'
+- '[[10_Sources/Media/geoffrey-hinton/ft-future-ai-summit-minds-modern-ai-2025|The
+  Minds of Modern AI: Jensen Huang, Geoffrey Hinton, Yann LeCun & the AI Vision of
+  the Future]]'
 status: draft
 created: 2026-04-22
 updated: 2026-04-22
@@ -94,8 +105,8 @@ topic:
 - topic/people
 subject:
 - subject/geoffrey-hinton
-wiki_indexed: '2026-10-04T02:48:24Z'
-wiki_hash: b05c2f83260e8e874e0d62ace082232cc66378672a7664f1fe7f90c19785ade5
+wiki_indexed: '2026-10-04T03:18:02Z'
+wiki_hash: f3ae6ab323c19937f85a63a1e2e5a914c470033d9feca1a0f2bff9b259516205
 wiki_role: wiki
 ---
 
@@ -168,7 +179,10 @@ Corpus of 20 verified sources under `10_Sources/{Papers,Articles,Media}/geoffrey
 - [[10_Sources/Articles/geoffrey-hinton/glom-part-whole-hierarchies-2021|How to represent part-whole hierarchies in a neural network]]
 - [[10_Sources/Articles/geoffrey-hinton/rbm-practical-guide-2010|A Practical Guide to Training Restricted Boltzmann Machines]]
 - [[10_Sources/Media/geoffrey-hinton/60-minutes-2023|Godfather of Artificial Intelligence Geoffrey Hinton on the promise, risks]]
+- [[10_Sources/Media/geoffrey-hinton/cbs-mornings-silva-braga-2025|Brook Silva-Braga Interviews Geoffrey Hinton on CBS Mornings]]
 - [[10_Sources/Media/geoffrey-hinton/diary-of-a-ceo-2025|Godfather of AI: I Tried to Warn Them, But We've Already Lost Control! Geoffrey]]
+- [[10_Sources/Media/geoffrey-hinton/ewan-lecture-living-alien-beings-2026|Living with Alien Beings (2026 Ewan Lecture)]]
+- [[10_Sources/Media/geoffrey-hinton/ft-future-ai-summit-minds-modern-ai-2025|The Minds of Modern AI: Jensen Huang, Geoffrey Hinton, Yann LeCun & the AI Vision of the Future]]
 - [[10_Sources/Media/geoffrey-hinton/jon-stewart-weekly-show-2025|AI: What Could Go Wrong? Geoffrey Hinton on The Weekly Show with Jon Stewart]]
 - [[10_Sources/Media/geoffrey-hinton/mit-emtech-2023|Possible End of Humanity from AI? Geoffrey Hinton at MIT EmTech Digital]]
 - [[10_Sources/Media/geoffrey-hinton/mit-tech-review-2023|Geoffrey Hinton tells us why he's now scared of the tech he helped build]]
@@ -177,6 +191,7 @@ Corpus of 20 verified sources under `10_Sources/{Papers,Articles,Media}/geoffrey
 - [[10_Sources/Media/geoffrey-hinton/nobel-lecture-boltzmann-2024|Nobel Prize Lecture: Boltzmann Machines]]
 - [[10_Sources/Media/geoffrey-hinton/nobel-podcast-2025|Geoffrey Hinton Nobel Prize Podcast]]
 - [[10_Sources/Media/geoffrey-hinton/on-point-2025|The Godfather of AI says we can't afford to get it wrong]]
+- [[10_Sources/Media/geoffrey-hinton/startalk-ai-hiding-full-power-2026|Is AI Hiding Its Full Power? w/ Geoffrey Hinton]]
 - [[10_Sources/Media/geoffrey-hinton/two-paths-to-intelligence-2023|Two Paths to Intelligence]]
 - [[10_Sources/Papers/geoffrey-hinton/acoustic-modeling-2012|Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups]]
 - [[10_Sources/Papers/geoffrey-hinton/big-self-supervised-models-2020|Big Self-Supervised Models are Strong Semi-Supervised Learners]]
@@ -188,6 +203,7 @@ Corpus of 20 verified sources under `10_Sources/{Papers,Articles,Media}/geoffrey
 - [[10_Sources/Papers/geoffrey-hinton/forward-forward-algorithm-2022|The Forward-Forward Algorithm: Some Preliminary Investigations]]
 - [[10_Sources/Papers/geoffrey-hinton/imagenet-alexnet-2012|ImageNet Classification with Deep Convolutional Neural Networks]]
 - [[10_Sources/Papers/geoffrey-hinton/layer-normalization-2016|Layer Normalization]]
+- [[10_Sources/Papers/geoffrey-hinton/managing-extreme-ai-risks-amid-rapid-progress-2024|Managing extreme AI risks amid rapid progress]]
 - [[10_Sources/Papers/geoffrey-hinton/reducing-dimensionality-2006|Reducing the Dimensionality of Data with Neural Networks]]
 - [[10_Sources/Papers/geoffrey-hinton/relu-rbm-2010|Rectified Linear Units Improve Restricted Boltzmann Machines]]
 - [[10_Sources/Papers/geoffrey-hinton/simclr-2020|A Simple Framework for Contrastive Learning of Visual Representations]]

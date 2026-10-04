@@ -39,6 +39,15 @@ key_papers:
   Trap: The Promise and Peril of Human-Like Artificial Intelligence]]'
 - '[[10_Sources/Papers/erik-brynjolfsson/future-of-work-ai-agents-2025|Future of Work
   with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce]]'
+- '[[10_Sources/Papers/erik-brynjolfsson/research-agenda-economics-transformative-ai-2025|A
+  Research Agenda for the Economics of Transformative AI]]'
+- '[[10_Sources/Papers/erik-brynjolfsson/ai-and-the-fed-2025|AI and the Fed]]'
+- '[[10_Sources/Papers/erik-brynjolfsson/minimum-wages-rise-of-robots-2026|Minimum
+  Wages and Rise of the Robots]]'
+- '[[10_Sources/Papers/erik-brynjolfsson/adoption-industrial-ai-america-2026|The Adoption
+  of Industrial AI in America]]'
+- '[[10_Sources/Papers/erik-brynjolfsson/enterprise-ai-playbook-2026|The Enterprise
+  AI Playbook: Lessons from 51 Successful Developments]]'
 key_talks:
 - '[[10_Sources/Media/erik-brynjolfsson/fortune-productivity-boom-2023|Top AI Economist
   Says It Will Create a Productivity Boom]]'
@@ -61,7 +70,25 @@ key_essays:
   The Case for an AI-Powered Productivity Boom]]'
 - '[[10_Sources/Articles/erik-brynjolfsson/macroeconomics-of-ai-2023|The Macroeconomics
   of Artificial Intelligence]]'
-interview_archive: []
+- '[[10_Sources/Articles/erik-brynjolfsson/ai-changed-work-forever-time-2026|AI Changed
+  Work Forever in 2025]]'
+- '[[10_Sources/Articles/erik-brynjolfsson/digitalist-papers-vol2-economics-transformative-ai-2025|Introduction:
+  The Economics of Transformative AI]]'
+interview_archive:
+- '[[10_Sources/Media/erik-brynjolfsson/krugman-economics-of-ai-2025|How Should We
+  Think About the Economics of AI?]]'
+- '[[10_Sources/Media/erik-brynjolfsson/me-myself-and-ai-shared-prosperity-2026|Creating
+  Shared Prosperity With AI: Stanford Digital Economy Lab''s Erik Brynjolfsson]]'
+- '[[10_Sources/Media/erik-brynjolfsson/dream-machines-enormous-wealth-2026|AI Will
+  Create Enormous Wealth - But Who Benefits? with Erik Brynjolfsson]]'
+- '[[10_Sources/Media/erik-brynjolfsson/gsb-almost-every-job-has-tasks-2026|"Almost
+  Every Job Has Tasks That AI Can Change"]]'
+- '[[10_Sources/Media/erik-brynjolfsson/silicon-valley-girl-best-worst-decade-2026|Stanford
+  Economist on the Best and Worst Decade in History]]'
+- '[[10_Sources/Media/erik-brynjolfsson/undark-five-questions-2017|Five Questions
+  for Erik Brynjolfsson]]'
+- '[[10_Sources/Media/erik-brynjolfsson/sdel-qa-ai-future-of-work-2024|Q&A - AI and
+  the Future of Work with Erik Brynjolfsson and Tom Mitchell]]'
 status: draft
 created: 2026-04-22
 updated: 2026-04-22
@@ -73,8 +100,8 @@ topic:
 - topic/people
 subject:
 - subject/erik-brynjolfsson
-wiki_indexed: '2026-10-04T02:41:35Z'
-wiki_hash: 2063ddec079d1fa14f9df6ebb7bae22c82b8c021c3517236e23185cbe18985b2
+wiki_indexed: '2026-10-04T03:18:02Z'
+wiki_hash: ac0ef326d6539585a1e880b209ec319e664235d9f9915c83b97fe4cf5ed8305f
 wiki_role: wiki
 ---
 
@@ -119,24 +146,38 @@ MIT Sloan productivity research from the 1990s. "The Second Machine Age" (2014) 
 
 ## Sources behind this profile
 
+- [[10_Sources/Articles/erik-brynjolfsson/ai-changed-work-forever-time-2026|AI Changed Work Forever in 2025]]
 - [[10_Sources/Articles/erik-brynjolfsson/digitalist-papers-introduction-2024|The Digitalist Papers, Introduction: Artificial Intelligence and Democracy]]
+- [[10_Sources/Articles/erik-brynjolfsson/digitalist-papers-vol2-economics-transformative-ai-2025|Introduction: The Economics of Transformative AI]]
 - [[10_Sources/Articles/erik-brynjolfsson/generative-ai-health-care-jama-2023|Will Generative Artificial Intelligence Deliver on Its Promise in Health Care?]]
 - [[10_Sources/Articles/erik-brynjolfsson/how-should-we-measure-digital-economy-2020|How Should We Measure the Digital Economy?]]
 - [[10_Sources/Articles/erik-brynjolfsson/machines-of-mind-2023|Machines of Mind: The Case for an AI-Powered Productivity Boom]]
 - [[10_Sources/Articles/erik-brynjolfsson/macroeconomics-of-ai-2023|The Macroeconomics of Artificial Intelligence]]
+- [[10_Sources/Media/erik-brynjolfsson/dream-machines-enormous-wealth-2026|AI Will Create Enormous Wealth - But Who Benefits? with Erik Brynjolfsson]]
 - [[10_Sources/Media/erik-brynjolfsson/fortune-productivity-boom-2023|Top AI Economist Says It Will Create a Productivity Boom]]
+- [[10_Sources/Media/erik-brynjolfsson/gsb-almost-every-job-has-tasks-2026|"Almost Every Job Has Tasks That AI Can Change"]]
 - [[10_Sources/Media/erik-brynjolfsson/hbs-rewriting-the-rules-2025|Erik Brynjolfsson on How AI Is Rewriting the Rules of the Economy]]
+- [[10_Sources/Media/erik-brynjolfsson/krugman-economics-of-ai-2025|How Should We Think About the Economics of AI?]]
 - [[10_Sources/Media/erik-brynjolfsson/lex-fridman-economics-of-ai-2020|Economics of AI, Social Networks, and Technology]]
+- [[10_Sources/Media/erik-brynjolfsson/me-myself-and-ai-shared-prosperity-2026|Creating Shared Prosperity With AI: Stanford Digital Economy Lab's Erik Brynjolfsson]]
 - [[10_Sources/Media/erik-brynjolfsson/race-with-the-machines-ted-2013|The Key to Growth? Race with the Machines]]
+- [[10_Sources/Media/erik-brynjolfsson/sdel-qa-ai-future-of-work-2024|Q&A - AI and the Future of Work with Erik Brynjolfsson and Tom Mitchell]]
 - [[10_Sources/Media/erik-brynjolfsson/second-machine-age-econtalk-2014|Erik Brynjolfsson on the Second Machine Age]]
+- [[10_Sources/Media/erik-brynjolfsson/silicon-valley-girl-best-worst-decade-2026|Stanford Economist on the Best and Worst Decade in History]]
+- [[10_Sources/Media/erik-brynjolfsson/undark-five-questions-2017|Five Questions for Erik Brynjolfsson]]
+- [[10_Sources/Papers/erik-brynjolfsson/adoption-industrial-ai-america-2026|The Adoption of Industrial AI in America]]
+- [[10_Sources/Papers/erik-brynjolfsson/ai-and-the-fed-2025|AI and the Fed]]
 - [[10_Sources/Papers/erik-brynjolfsson/ai-modern-productivity-paradox-2017|Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations]]
 - [[10_Sources/Papers/erik-brynjolfsson/canaries-in-the-coal-mine-2025|Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of]]
+- [[10_Sources/Papers/erik-brynjolfsson/enterprise-ai-playbook-2026|The Enterprise AI Playbook: Lessons from 51 Successful Developments]]
 - [[10_Sources/Papers/erik-brynjolfsson/future-of-work-ai-agents-2025|Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce]]
 - [[10_Sources/Papers/erik-brynjolfsson/gdp-b-new-and-free-goods-2019|GDP-B: Accounting for the Value of New and Free Goods in the Digital Economy]]
 - [[10_Sources/Papers/erik-brynjolfsson/generative-ai-at-work-2023|Generative AI at Work]]
 - [[10_Sources/Papers/erik-brynjolfsson/generative-ai-at-work-qje-2025|Generative AI at Work (Quarterly Journal of Economics)]]
 - [[10_Sources/Papers/erik-brynjolfsson/how-many-americans-work-remotely-2023|How Many Americans Work Remotely? A Survey of Surveys and Their Measurement]]
+- [[10_Sources/Papers/erik-brynjolfsson/minimum-wages-rise-of-robots-2026|Minimum Wages and Rise of the Robots]]
 - [[10_Sources/Papers/erik-brynjolfsson/online-choice-experiments-well-being-2019|Using Massive Online Choice Experiments to Measure Changes in Well-being]]
 - [[10_Sources/Papers/erik-brynjolfsson/productivity-j-curve-2020|The Productivity J-Curve: How Intangibles Complement General Purpose Technologies]]
+- [[10_Sources/Papers/erik-brynjolfsson/research-agenda-economics-transformative-ai-2025|A Research Agenda for the Economics of Transformative AI]]
 - [[10_Sources/Papers/erik-brynjolfsson/turing-trap-2022|The Turing Trap: The Promise and Peril of Human-Like Artificial Intelligence]]
 - [[10_Sources/Papers/erik-brynjolfsson/turing-trap-arxiv-preprint-2022|The Turing Trap: The Promise and Peril of Human-Like Artificial Intelligence]]
