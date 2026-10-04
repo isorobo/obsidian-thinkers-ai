@@ -1,7 +1,7 @@
 ---
 topic_full: root
-wiki_indexed: '2026-10-04T02:41:44Z'
-wiki_hash: 767f313ad71b19427c9cb8e4147f6c5a20179193f7b4a21d9f3d317a9af29ce3
+wiki_indexed: '2026-10-04T04:33:56Z'
+wiki_hash: 485c32bd15bfbef21a7aa834f54f9c71e37eb2a462419b359bd84633ce080932
 wiki_role: moc
 ---
 
@@ -62,6 +62,7 @@ SORT t ASC
 - [[MOC - Semantic Parsing]]
 - [[MOC - Software 2 0]]
 - [[MOC - Speech Recognition]]
+- [[MOC - Startups]]
 - [[MOC - Summarisation]]
 - [[MOC - Superposition]]
 - [[MOC - Sycophancy]]

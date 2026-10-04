@@ -26,6 +26,14 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/startups
+subject:
+- subject/sam-altman
+- subject/y-combinator
+wiki_indexed: '2026-10-04T04:33:37Z'
+wiki_hash: 16f66a70147a0740cd803941bf39c87c4404b61683640fb56cc1c61b082dd449
+wiki_role: wiki
 ---
 
 # Startup Playbook

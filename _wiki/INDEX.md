@@ -1,12 +1,12 @@
 ---
-wiki_indexed: '2026-10-04T02:41:44Z'
-wiki_hash: b57bd7e65bff772aecb6c160e242909090f196758f00abb22cbcfc146a0803db
+wiki_indexed: '2026-10-04T04:33:56Z'
+wiki_hash: 92f384f73fedf26d8b54850b3e576fd5a585309c16bb8a3b498500ebdf0802c2
 wiki_role: index
 ---
 
 # Wiki Index
 
-Last updated: 2026-10-04T02:41:44Z
+Last updated: 2026-10-04T04:33:56Z
 
 ## Topic hierarchy
 
@@ -64,6 +64,7 @@ SORT t ASC
 - [[MOC - Semantic Parsing]]
 - [[MOC - Software 2 0]]
 - [[MOC - Speech Recognition]]
+- [[MOC - Startups]]
 - [[MOC - Summarisation]]
 - [[MOC - Superposition]]
 - [[MOC - Sycophancy]]

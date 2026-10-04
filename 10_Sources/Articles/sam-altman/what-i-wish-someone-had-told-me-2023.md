@@ -26,6 +26,13 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-07-13
 nlm_source_id: ''
 nlm_skip: false
+topic:
+- topic/startups
+subject:
+- subject/sam-altman
+wiki_indexed: '2026-10-04T04:33:37Z'
+wiki_hash: 4933e0b328b0f3d7dda4ed5bcd8d0977e5310a024626c4ac205770481904d5e4
+wiki_role: wiki
 ---
 
 # What I Wish Someone Had Told Me

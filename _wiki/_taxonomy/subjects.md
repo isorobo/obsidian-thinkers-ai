@@ -5,8 +5,8 @@ status: permanent
 updated: 2026-08-17
 topic:
 - topic/meta
-wiki_indexed: '2026-10-04T02:48:24Z'
-wiki_hash: 13c0d3f71d58f286573b29d28fcb1a520b4b26a1b48e8663df2d1296495d2a3a
+wiki_indexed: '2026-10-04T04:33:37Z'
+wiki_hash: d4af2b3383ceeac77e2012dfc040b28a980907bbf2977be3987b05037d39d928
 wiki_role: meta
 ---
 
@@ -205,3 +205,8 @@ specific named artefacts. Concepts belong in `topics.md`, not here.
 ## Inverse Scaling
 
 - subject/inverse-scaling
+
+## Unsorted
+
+- subject/richard-hamming
+- subject/y-combinator

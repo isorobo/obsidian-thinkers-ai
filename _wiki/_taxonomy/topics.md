@@ -5,8 +5,8 @@ status: permanent
 updated: 2026-07-12
 topic:
 - topic/meta
-wiki_indexed: '2026-07-12T00:00:00Z'
-wiki_hash: 1026730fc6292c9158fc5225c3eac73f8b63e329902f4a99131de3782966cf49
+wiki_indexed: '2026-10-04T04:33:57Z'
+wiki_hash: 21bed4feb010ec301d607599f155d0175f6124afbfdae4dcd4b50c50c04e185d
 wiki_role: meta
 ---
 
@@ -98,6 +98,10 @@ written to notes.
 
 - topic/computational-neuroscience
 
+## Founders and Industry
+
+- topic/startups
+
 ---
 
 Reconciliation note (2026-07-12): `topic/agi-timelines`, `topic/ai-policy`,
@@ -105,3 +109,7 @@ Reconciliation note (2026-07-12): `topic/agi-timelines`, `topic/ai-policy`,
 frontmatter (with generated MOCs) but absent from this list. Appended to
 restore the controlled vocabulary to truth. See
 `_wiki/_reports/scan-2026-07-12.md`.
+
+Decision note (2026-10-04): `topic/startups` approved by Simon after seven
+cycles (Sam Altman promoted to active the same day). `topic/research-methodology`
+rejected; its one note is directed to `topic/education`.

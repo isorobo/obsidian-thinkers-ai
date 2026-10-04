@@ -28,6 +28,14 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-06-28
 nlm_source_id: ""
 nlm_skip: false
+topic:
+- topic/education
+subject:
+- subject/andrej-karpathy
+- subject/richard-hamming
+wiki_indexed: '2026-10-04T04:33:37Z'
+wiki_hash: 500822042a6db34606912e53e5c4a7bc789aca3274c2313787511af811850de5
+wiki_role: wiki
 ---
 
 # A Survival Guide to a PhD

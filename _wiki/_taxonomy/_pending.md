@@ -5,8 +5,8 @@ status: permanent
 updated: 2026-08-23
 topic:
 - topic/meta
-wiki_indexed: '2026-10-04T02:41:44Z'
-wiki_hash: 637fbfba9e51832e0da69be77b3ff1383a9352afe6bbd4509b57459cde54844f
+wiki_indexed: '2026-10-04T04:33:57Z'
+wiki_hash: cee5722bc57b63233b24277dcd0495336d0ac16557ae14142f59b34e60f74acd
 wiki_role: meta
 ---
 
@@ -28,30 +28,14 @@ pending at this time. Subsequent thinker ingestions will populate this file.
 
 ## Pending
 
-### topic/research-methodology (staged 2026-07-12, restaged 2026-10-04, cycle 8)
+_No candidates pending._
 
-Evidenced by one note:
-`10_Sources/Articles/andrej-karpathy/survival-guide-phd-2016.md`, still
-untagged after an eighth consecutive cycle. The note covers research problem
-selection, research taste, and Hamming's framework. No existing Topic clears
-the 0.7 threshold; closest is `topic/education` (~0.55). Options:
+## Decided this cycle (2026-10-04)
 
-- **Approve** — creates the Topic; the note is tagged at `/wiki apply`.
-- **Reject and direct to `topic/education`** — the note is tagged with the
-  existing Topic despite the low fit.
-- **Reject outright** — the note stays untagged.
-
-### topic/startups (staged 2026-07-19, restaged 2026-10-04, cycle 7)
-
-Evidenced by two notes:
-`10_Sources/Books/sam-altman/startup-playbook-2015.md` and
-`10_Sources/Articles/sam-altman/what-i-wish-someone-had-told-me-2023.md`.
-Both give founder and startup operating advice with little AI content. No
-existing Topic fits at confidence ≥ 0.7. Options:
-
-- **Approve** — creates the Topic; both notes are tagged at `/wiki apply`.
-- **Merge** — direct both notes to an existing Topic you name.
-- **Reject outright** — both notes quarantine, untagged.
+- topic/startups: approved (now in `topics.md`, section Founders and Industry).
+  Tags `startup-playbook-2015` and `what-i-wish-someone-had-told-me-2023`.
+- topic/research-methodology: rejected after eight cycles; the one note,
+  `survival-guide-phd-2016`, is directed to `topic/education`.
 
 ## Approved this cycle (2026-07-05)
 
