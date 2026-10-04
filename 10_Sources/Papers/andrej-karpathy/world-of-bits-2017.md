@@ -31,7 +31,11 @@ source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: 'a2981dc9-2452-44d4-9963-442fcac80633'
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/reinforcement-learning
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: cb9c6f4e7cb3d1b6cbcbdf7c7dcc33c0dc3e2ab8ff76734d09e0400444f55f25
 wiki_role: wiki
 ---

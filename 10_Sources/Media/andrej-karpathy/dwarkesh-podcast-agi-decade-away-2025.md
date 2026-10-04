@@ -29,7 +29,13 @@ source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: 'c01690b5-dc5b-46a1-94c1-644a6cc65968'
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/agi-timelines
+- topic/reinforcement-learning
+- topic/ai-economics
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: f23900aed15f220f6442c6b09bb1f2ac66cdd417a8f05ad68e26dfb7c6f8bd21
 wiki_role: wiki
 ---

@@ -70,8 +70,8 @@ topic:
 - topic/people
 subject:
 - subject/paul-christiano
-wiki_indexed: '2026-07-08T00:00:00Z'
-wiki_hash: 10f1d2cb2c311d311c9cc1664e8f7cddbce4bab75cbb92f5744e813bc2c67f7f
+wiki_indexed: '2026-10-04T02:41:35Z'
+wiki_hash: d61eed24b60c92c316f73bd9f2bc7a39f086cb855789629d46be1e52a387f346
 wiki_role: wiki
 ---
 

@@ -29,7 +29,12 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: true
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/software-2-0
+- topic/llm-os
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 4ec9fcd2d6b2e5d0f28b4c3e639c293e61c3034c42f3bb16f2fc71a90a41d345
 wiki_role: wiki
 ---

@@ -29,7 +29,12 @@ source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: '764308f9-3b5e-4920-a9e4-b625414fa3cd'
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/vision-language
+- topic/representation-learning
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: d9e6836f5fda1e2e0618147fe156273952510b2397a8a59974b7ec02f875e83e
 wiki_role: wiki
 ---

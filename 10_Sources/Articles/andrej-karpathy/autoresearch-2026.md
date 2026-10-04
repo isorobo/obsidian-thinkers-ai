@@ -29,7 +29,11 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: false
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/software-2-0
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: f5a7704222d9e3e5ca87f9224c64a648526d07499082ed61a4efde6aa801e037
 wiki_role: wiki
 ---

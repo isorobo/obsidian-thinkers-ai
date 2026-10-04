@@ -61,8 +61,8 @@ topic:
 - topic/people
 subject:
 - subject/sam-altman
-wiki_indexed: '2026-07-25T18:11:22Z'
-wiki_hash: ec9a2cbc82c9dd7c3689b2547dc80b584742c63f4fb808849961daa32fa5c4e6
+wiki_indexed: '2026-10-04T02:41:35Z'
+wiki_hash: 3bdc6d5f8cd89ed16b661a85a0a231a5bf3826b357a42b09f3be52e96d03506a
 wiki_role: wiki
 ---
 

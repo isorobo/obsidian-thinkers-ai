@@ -47,6 +47,8 @@ key_papers:
   with Deep Recurrent Neural Networks]]'
 - '[[10_Sources/Papers/geoffrey-hinton/visualizing-tsne-2008|Visualizing Data using
   t-SNE]]'
+- '[[10_Sources/Papers/geoffrey-hinton/big-self-supervised-models-2020|Big Self-Supervised
+  Models are Strong Semi-Supervised Learners]]'
 key_talks:
 - '[[10_Sources/Media/geoffrey-hinton/60-minutes-2023|Godfather of Artificial Intelligence
   Geoffrey Hinton on the promise, risks]]'
@@ -92,8 +94,8 @@ topic:
 - topic/people
 subject:
 - subject/geoffrey-hinton
-wiki_indexed: '2026-07-08T00:00:00Z'
-wiki_hash: 1df63ef81889c1c916d96f7b0f91a8c9fb0c7f16a406c289bf03272e23884939
+wiki_indexed: '2026-10-04T02:48:24Z'
+wiki_hash: b05c2f83260e8e874e0d62ace082232cc66378672a7664f1fe7f90c19785ade5
 wiki_role: wiki
 ---
 
@@ -177,6 +179,7 @@ Corpus of 20 verified sources under `10_Sources/{Papers,Articles,Media}/geoffrey
 - [[10_Sources/Media/geoffrey-hinton/on-point-2025|The Godfather of AI says we can't afford to get it wrong]]
 - [[10_Sources/Media/geoffrey-hinton/two-paths-to-intelligence-2023|Two Paths to Intelligence]]
 - [[10_Sources/Papers/geoffrey-hinton/acoustic-modeling-2012|Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups]]
+- [[10_Sources/Papers/geoffrey-hinton/big-self-supervised-models-2020|Big Self-Supervised Models are Strong Semi-Supervised Learners]]
 - [[10_Sources/Papers/geoffrey-hinton/deep-belief-nets-2006|A fast learning algorithm for deep belief nets]]
 - [[10_Sources/Papers/geoffrey-hinton/deep-boltzmann-machines-2009|Deep Boltzmann Machines]]
 - [[10_Sources/Papers/geoffrey-hinton/distilling-knowledge-2015|Distilling the Knowledge in a Neural Network]]

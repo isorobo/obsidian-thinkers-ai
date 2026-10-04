@@ -71,8 +71,8 @@ topic:
 - topic/people
 subject:
 - subject/gary-marcus
-wiki_indexed: '2026-07-08T00:00:00Z'
-wiki_hash: 41283508f80fa75de14a32e58dcfe7139ea4bb116842f4bb03847de6047bc544
+wiki_indexed: '2026-10-04T02:41:35Z'
+wiki_hash: 6e1e767dab47e204f534ba33139aa87fbba013b48f2e0ae49a64135ac8bd220e
 wiki_role: wiki
 ---
 

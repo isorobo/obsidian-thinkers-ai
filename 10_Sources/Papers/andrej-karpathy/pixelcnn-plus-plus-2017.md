@@ -33,7 +33,11 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: false
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/computer-vision
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: dd04fb55f61715144428c33654290de168cf8b04b5bc8c4722ecfb8f6e5819f0
 wiki_role: wiki
 ---

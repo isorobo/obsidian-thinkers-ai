@@ -136,8 +136,8 @@ topic:
 - topic/people
 subject:
 - subject/dario-amodei
-wiki_indexed: '2026-07-08T00:00:00Z'
-wiki_hash: 72875b004b8375d0c2ea7b947d432232b76f31a8796fac74f5803a20fec3bd1b
+wiki_indexed: '2026-10-04T02:41:35Z'
+wiki_hash: 9aea956bdcbecffc51a54c9c9126f4d1ced675072e2da0345895a6b87a3dc682
 wiki_role: wiki
 ---
 

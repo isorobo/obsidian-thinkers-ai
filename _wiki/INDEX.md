@@ -1,13 +1,12 @@
 ---
-wiki_indexed: '2026-08-23T08:30:00Z'
-wiki_hash: 3bb9a9a5f6a54310d5bf08bc2697261f063a79d14d625404f52e6299c4fc32f3
+wiki_indexed: '2026-10-04T02:41:44Z'
+wiki_hash: b57bd7e65bff772aecb6c160e242909090f196758f00abb22cbcfc146a0803db
 wiki_role: index
 ---
 
-
 # Wiki Index
 
-Last updated: 2026-08-22T19:14:04Z
+Last updated: 2026-10-04T02:41:44Z
 
 ## Topic hierarchy
 
@@ -49,10 +48,7 @@ SORT t ASC
 - [[MOC - Language Model Finetuning]]
 - [[MOC - Llm Os]]
 - [[MOC - Machines Of Loving Grace]]
-- [[MOC - Meta]]
-- [[MOC - Moc]]
 - [[MOC - Options Framework]]
-- [[MOC - People]]
 - [[MOC - Preference Learning]]
 - [[MOC - Program Induction]]
 - [[MOC - Regularisation]]
@@ -63,8 +59,8 @@ SORT t ASC
 - [[MOC - Rlhf]]
 - [[MOC - Root]]
 - [[MOC - Scalable Oversight]]
-- [[MOC - Scaling Laws]]
 - [[MOC - Scaling]]
+- [[MOC - Scaling Laws]]
 - [[MOC - Semantic Parsing]]
 - [[MOC - Software 2 0]]
 - [[MOC - Speech Recognition]]

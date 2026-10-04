@@ -5,8 +5,8 @@ status: permanent
 updated: 2026-08-23
 topic:
 - topic/meta
-wiki_indexed: '2026-08-23T08:30:00Z'
-wiki_hash: b7b015d9e2660fb15f21b757c1b43013172282b2832043d698094860030b6174
+wiki_indexed: '2026-10-04T02:41:44Z'
+wiki_hash: 637fbfba9e51832e0da69be77b3ff1383a9352afe6bbd4509b57459cde54844f
 wiki_role: meta
 ---
 
@@ -28,11 +28,11 @@ pending at this time. Subsequent thinker ingestions will populate this file.
 
 ## Pending
 
-### topic/research-methodology (staged 2026-07-12, restaged 2026-08-23, cycle 7)
+### topic/research-methodology (staged 2026-07-12, restaged 2026-10-04, cycle 8)
 
 Evidenced by one note:
 `10_Sources/Articles/andrej-karpathy/survival-guide-phd-2016.md`, still
-untagged after a seventh consecutive cycle. The note covers research problem
+untagged after an eighth consecutive cycle. The note covers research problem
 selection, research taste, and Hamming's framework. No existing Topic clears
 the 0.7 threshold; closest is `topic/education` (~0.55). Options:
 
@@ -41,7 +41,7 @@ the 0.7 threshold; closest is `topic/education` (~0.55). Options:
   existing Topic despite the low fit.
 - **Reject outright** — the note stays untagged.
 
-### topic/startups (staged 2026-07-19, restaged 2026-08-23, cycle 6)
+### topic/startups (staged 2026-07-19, restaged 2026-10-04, cycle 7)
 
 Evidenced by two notes:
 `10_Sources/Books/sam-altman/startup-playbook-2015.md` and

@@ -29,7 +29,12 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: false
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/convnets
+- topic/training-dynamics
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 71300d374eec3b5fca198d9b06522629a318ce097ff6b2fdd6e45a7213b8eea3
 wiki_role: wiki
 ---

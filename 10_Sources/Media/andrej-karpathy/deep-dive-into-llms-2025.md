@@ -28,7 +28,13 @@ source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: '02951007-04d3-4722-97c7-832a25313484'
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/language-model-finetuning
+- topic/rlhf
+- topic/transformer-mechanics
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 8ba50f9a196d934cfc5bbf4ecb1365c4fec2c93523bc724c8a5879174ccf28ec
 wiki_role: wiki
 ---

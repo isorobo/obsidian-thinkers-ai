@@ -29,7 +29,12 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: false
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/transformer-mechanics
+- topic/education
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: f900ce3f8409517091e911c432160405ee9e4176f37bf5e6dc816bca9544174e
 wiki_role: wiki
 ---

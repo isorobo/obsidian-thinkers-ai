@@ -29,7 +29,11 @@ source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: '74524e4d-417a-4d9a-bc29-2d84cdedd0b8'
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/interpretability
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 27284f0a06b3f891e2ccbe5f7e222ca9ca41f823e3896f3ad7a83010340cc603
 wiki_role: wiki
 ---

@@ -29,7 +29,13 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: ''
 nlm_skip: true   # YouTube fetch rejected by NotebookLM 2026-05-22 — region or visibility
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/rlhf
+- topic/language-model-finetuning
+- topic/transformer-mechanics
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 48b2b2069bb3aa4b94eac8cc4181af6f4c05f6b58b44d94dd5f62bf52d6762a3
 wiki_role: wiki
 ---

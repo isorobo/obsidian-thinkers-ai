@@ -5,8 +5,8 @@ status: permanent
 updated: 2026-08-17
 topic:
 - topic/meta
-wiki_indexed: '2026-08-17T08:24:33Z'
-wiki_hash: d0313f0143c717d66d185c35264bb55a56825f63c38cae8582a11a04ee7385e6
+wiki_indexed: '2026-10-04T02:48:24Z'
+wiki_hash: 13c0d3f71d58f286573b29d28fcb1a520b4b26a1b48e8663df2d1296495d2a3a
 wiki_role: meta
 ---
 
@@ -47,6 +47,7 @@ specific named artefacts. Concepts belong in `topics.md`, not here.
 - subject/evan-hubinger
 - subject/fei-fei-li
 - subject/gary-marcus
+- subject/geoffrey-hinton
 - subject/geoffrey-irving
 - subject/jack-clark
 - subject/jaime-sevilla

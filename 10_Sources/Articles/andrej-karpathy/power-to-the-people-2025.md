@@ -29,7 +29,11 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: false
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/ai-economics
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: eac56016f3b1e890a4e0aade2cc53a1cca7748e5850876bab005f01db354e58b
 wiki_role: wiki
 ---

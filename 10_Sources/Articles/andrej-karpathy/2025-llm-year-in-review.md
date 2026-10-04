@@ -29,7 +29,12 @@ source_hash: ''
 retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-22
 nlm_source_id: 'a95c3302-4f33-45dc-88c3-5ec188217c09'
-wiki_indexed: '2026-05-22T11:28:30Z'
+topic:
+- topic/reinforcement-learning
+- topic/training-dynamics
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 8f4e6d08af6c1c7446efea44da6c7643f00d5b006544ae223d6b0ded75b48094
 wiki_role: wiki
 ---

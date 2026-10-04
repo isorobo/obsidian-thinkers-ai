@@ -73,8 +73,8 @@ topic:
 - topic/people
 subject:
 - subject/erik-brynjolfsson
-wiki_indexed: '2026-07-08T00:00:00Z'
-wiki_hash: 7381bed3b5af74a524d872d7495f34208abe4bd29375f7e3c30924603c0d7ff9
+wiki_indexed: '2026-10-04T02:41:35Z'
+wiki_hash: 2063ddec079d1fa14f9df6ebb7bae22c82b8c021c3517236e23185cbe18985b2
 wiki_role: wiki
 ---
 

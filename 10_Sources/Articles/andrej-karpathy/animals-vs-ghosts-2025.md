@@ -30,7 +30,11 @@ retrieved_by: wiki-thinker-researcher
 retrieved_at: 2026-05-24
 nlm_source_id: ''
 nlm_skip: false
-wiki_indexed: '2026-05-24T02:24:11Z'
+topic:
+- topic/reinforcement-learning
+subject:
+- subject/andrej-karpathy
+wiki_indexed: '2026-10-04T02:41:35Z'
 wiki_hash: 16accad3781bee4e0419bd75431c68c7bebb4a6e722dd8ec6cd34c27301c068a
 wiki_role: wiki
 ---

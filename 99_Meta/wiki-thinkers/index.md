@@ -13,22 +13,34 @@ Auto-maintained by `/wiki-thinkers status`. Do not edit by hand.
 
 ## Summary
 
-- Roster size: 67 (see `roster.md`).
-- Active thinkers: 1 (andrej-karpathy).
-- Seeded thinkers: 14.
-- Pending thinkers: 52.
-- Sources collected: 40 (Karpathy complete at target).
-- Last orchestrator run: 2026-06-07 (weekly-refresh — Karpathy at target, 0 new sources; 47 MOCs timestamps refreshed).
+- Roster size: 66 (see `roster.md`).
+- Active thinkers: 6 (andrej-karpathy, dario-amodei, erik-brynjolfsson, gary-marcus, geoffrey-hinton, paul-christiano).
+- Seeded thinkers: 9.
+- Pending thinkers: 51.
+- Sources collected: 206 on disk (204 recorded in state files).
+- State/disk drift: none.
+- Latest researcher run: 2026-10-04 (geoffrey-hinton).
 
 ## Progress by thinker
 
-| slug | name | sources / target | last run | rounds without yield |
-|---|---|---|---|---|
-| andrej-karpathy | Andrej Karpathy | 40 / 40 | 2026-06-07 | 0 |
+| slug | name | sources / target | disk | last run | rounds without yield |
+|---|---|---|---|---|---|
+| andrej-karpathy | Andrej Karpathy | 49 / 55 | 49 | 2026-08-13 | 0 |
+| chris-olah | Chris Olah | - / 20 | 1 | - | - |
+| dario-amodei | Dario Amodei | 45 / 60 | 45 | 2026-06-28 | 0 |
+| daron-acemoglu | Daron Acemoglu | - / 20 | 1 | - | - |
+| erik-brynjolfsson | Erik Brynjolfsson | 21 / 35 | 21 | 2026-06-14 | 0 |
+| gary-marcus | Gary Marcus | 20 / 35 | 20 | 2026-06-07 | 0 |
+| geoffrey-hinton | Geoffrey Hinton | 30 / 35 | 30 | 2026-10-04 | 0 |
+| paul-christiano | Paul Christiano | 20 / 35 | 20 | 2026-06-14 | 0 |
+| sam-altman | Sam Altman | 19 / 20 | 19 | 2026-07-13 | 0 |
 
 ## Recent sources
 
-- 2026-06-07 — weekly-refresh: Karpathy at target (40/40), no new sources added; 47 MOCs timestamps refreshed.
-- 2026-06-02 — weekly-refresh: Karpathy at target (40/40), no new sources added; 47 MOCs timestamps refreshed.
-- 2026-05-24 — Karpathy round 2: wrote 11 sources (6 talks, 4 essays/blogs, 1 essay); count 29 to 40.
-- 2026-05-22 — Hinton pilot run wrote 8 sources (4 papers, 2 talks, 2 interviews).
+- 2026-10-04 - geoffrey-hinton: Cap reached.
+- 2026-08-13 - andrej-karpathy: Top-up run (2026-08-13), scoped to material published on or after 1 May 2026.
+- 2026-07-13 - sam-altman: First ingestion pass for Sam Altman.
+- 2026-06-28 - dario-amodei: Target of 20 far exceeded.
+- 2026-06-14 - paul-christiano: Round 2: reconciled count discrepancy from Round 1.
+- 2026-06-14 - erik-brynjolfsson: Verification pass (2026-06-14): confirmed target of 20 met.
+- 2026-06-07 - gary-marcus: Cold-start ingestion to target.
